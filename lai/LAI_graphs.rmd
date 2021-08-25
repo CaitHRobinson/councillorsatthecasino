@@ -1,10 +1,6 @@
 
-# Set your working directory
+# Install libraries 
 
-```{r}
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets")
-getwd()
-```
 ```{r}
 library(ggplot2)
 library(tidyr)
@@ -13,6 +9,7 @@ library(dplyr)
 library(ggrepel) # For labels
 library(viridis) # For colour palettes
 ```
+
 # Graphs of LAI
 
 ## Upload LAI data from csv file

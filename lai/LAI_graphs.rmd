@@ -5,7 +5,6 @@
 setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets")
 getwd()
 ```
-
 ```{r}
 library(ggplot2)
 library(tidyr)
@@ -14,7 +13,6 @@ library(dplyr)
 library(ggrepel) # For labels
 library(viridis) # For colour palettes
 ```
-
 # Graphs of LAI
 
 ## Upload LAI data from csv file
@@ -23,8 +21,6 @@ library(viridis) # For colour palettes
 LAI_data <- read.csv("LAI_2014.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
 LAI_data
 ```
-
-
 ## Bar chart for 2014
 
 ### Reorder LAI data according to the index score
@@ -38,7 +34,7 @@ LAI_data_reorder$country_name <- factor(LAI_data_reorder$country_name, # Factor 
 ### Create graph of all European countries for 2014
 
 ```{r}
-Figure_LAI1 <- ggplot(LAI_data_reorder, aes(x= country_name, y = D_LAI_2014))+ 
+ggplot(LAI_data_reorder, aes(x= country_name, y = D_LAI_2014))+ 
   geom_col(stat = "identity", fill = "#D3D3D3")+
   ylim(0, 80)+
   theme_minimal()+
@@ -58,7 +54,7 @@ LAI_data_reorder_2000$country_name <- factor(LAI_data_reorder_2000$country_name,
 ### Create graph of all European countries for 2000
 
 ```{r}
-Figure_LAI2 <- ggplot(LAI_data_reorder_2000, aes(x= country_name, y = D_LAI_2000))+ 
+ggplot(LAI_data_reorder_2000, aes(x= country_name, y = D_LAI_2000))+ 
   geom_col(stat = "identity", fill = "#D3D3D3")+
   ylim(0, 80)+
   theme_minimal()+
@@ -78,7 +74,7 @@ LAI_data_reorder_1990$country_name <- factor(LAI_data_reorder_1990$country_name,
 ### Create graph of all European countries for 1990
 
 ```{r}
-Figure_LAI3 <- ggplot(LAI_data_reorder_1990, aes(x= country_name, y = D_LAI_1990))+ 
+ggplot(LAI_data_reorder_1990, aes(x= country_name, y = D_LAI_1990))+ 
   geom_col(stat = "identity", fill = "#D3D3D3")+
   ylim(0, 80)+
   theme_minimal()+
@@ -97,7 +93,7 @@ LAI_data_reorder_change$country_name <- factor(LAI_data_reorder_change$country_n
 ```
 
 ```{r}
-Figure_LAI4 <- ggplot(LAI_data_reorder_change, aes(x= country_name, y = D_LAI_changes_1990_2014))+ 
+ggplot(LAI_data_reorder_change, aes(x= country_name, y = D_LAI_changes_1990_2014))+ 
   geom_col(stat = "identity", fill = "#D3D3D3")+
   theme_minimal()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
@@ -116,42 +112,12 @@ LAI_data_reorder_2010$country_name <- factor(LAI_data_reorder_2010$country_name,
 ### Create graph of all European countries for 2010
 
 ```{r}
-Figure_LAI5 <- ggplot(LAI_data_reorder_2010, aes(x= country_name, y = D_LAI_2010))+ 
+ggplot(LAI_data_reorder_2010, aes(x= country_name, y = D_LAI_2010))+ 
   geom_col(stat = "identity", fill = "#D3D3D3")+
   ylim(0, 80)+
   theme_minimal()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
   labs(title="Local Autonomy Index (LAI) for European countries (2010)", y="LAI", x = " ", caption = "Index based on Ladner et al. (2015)")
-```
-
-```{r}
-tiff("LAI_allcountries_2014_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI1
-dev.off()
-```
-
-```{r}
-tiff("LAI_allcountries_2000_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI2
-dev.off()
-```
-
-```{r}
-tiff("LAI_allcountries_1990_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI3
-dev.off()
-```
-
-```{r}
-tiff("LAI_allcountries_Change_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI4
-dev.off()
-```
-
-```{r}
-tiff("LAI_allcountries_2010_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI5
-dev.off()
 ```
 
 # Grouped barchart for all years
@@ -177,7 +143,7 @@ print(LAI_data_select_long)
 ### In black and white
 
 ```{r}
-Figure_LAI6 <- ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) + 
+ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) + 
     geom_bar(position="dodge", stat="identity", aes(fill = year))+
   scale_fill_manual(values = c("1990" = "#cccccc",
                                "2000" = "#969696",
@@ -192,7 +158,7 @@ Figure_LAI6 <- ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) +
 ## In colour
 
 ```{r}
-Figure_LAI7 <- ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) + 
+ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) + 
     geom_bar(position="dodge", stat="identity", aes(fill = year))+
   scale_fill_manual(values = c("1990" = "#ffffcc",
                                "2000" = "#a1dab4",
@@ -202,18 +168,4 @@ Figure_LAI7 <- ggplot(LAI_data_select_long, aes(y=LAI, x=country_name)) +
   theme_minimal()+
   theme(legend.title = element_blank())+
   labs(title="Local Autonomy Index (LAI) for selected European countries", y="LAI", x = " ", caption = "Index based on Ladner et al. (2015)")
-```
-
-
-```{r}
-tiff("LAI_selectcountries_grouped_blackandwhite_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI6
-dev.off()
-```
-
-
-```{r}
-tiff("LAI_selectcountries_grouped_colour_600dpi.tiff", width = 5500, height = 4000, res=600)
-Figure_LAI7
-dev.off()
 ```

@@ -1,0 +1,353 @@
+ons_code,ons_name,class,region,201011_201112,201112_201213,201213_201314,201314_201415,201415_201516,201516_201617,201617_201718,201718_201819,201819_201920,201516_202021
+E09000007,Camden,London borough,London,-0.07,-0.04,-0.01,-0.05,-0.05,-0.03,0.00,0.00,0.07,0.04
+E09000011,Greenwich,London borough,London,-0.08,-0.04,0.00,-0.05,-0.04,-0.02,0.03,0.02,0.09,0.13
+E09000012,Hackney,London borough,London,-0.09,-0.07,0.00,-0.05,-0.06,-0.04,0.00,-0.02,0.07,0.02
+E09000013,Hammersmith and Fulham,London borough,London,-0.07,-0.04,-0.01,-0.05,-0.05,-0.04,0.00,-0.01,0.08,0.02
+E09000019,Islington,London borough,London,-0.09,-0.04,0.00,-0.04,-0.05,-0.03,0.00,-0.01,0.07,0.04
+E09000020,Kensington and Chelsea,London borough,London,-0.05,-0.04,-0.02,-0.05,-0.03,-0.05,-0.01,0.02,0.07,0.01
+E09000022,Lambeth,London borough,London,-0.08,-0.05,-0.01,-0.05,-0.05,-0.03,0.00,0.02,0.06,0.06
+E09000023,Lewisham,London borough,London,-0.07,-0.04,-0.01,-0.05,-0.05,-0.03,0.02,0.02,0.09,0.10
+E09000028,Southwark,London borough,London,-0.08,-0.05,-0.01,-0.05,-0.06,-0.04,0.01,0.02,0.09,0.09
+E09000030,Tower Hamlets,London borough,London,-0.09,-0.06,0.00,-0.05,-0.05,-0.02,0.01,0.01,0.09,0.08
+E09000032,Wandsworth,London borough,London,-0.06,-0.05,0.00,-0.05,-0.03,-0.02,0.03,0.01,0.08,0.10
+E09000033,Westminster,London borough,London,-0.07,-0.05,-0.01,-0.06,-0.05,-0.04,0.00,0.00,0.06,0.02
+E08000016,Barnsley,Metropolitan district,Yorkshire and The Humber,-0.08,-0.04,-0.01,-0.04,-0.02,-0.04,0.03,0.01,0.10,0.10
+E08000025,Birmingham,Metropolitan district,West Midlands,-0.08,-0.04,-0.01,-0.05,-0.06,-0.04,0.01,0.01,0.08,0.06
+E08000001,Bolton,Metropolitan district,North West,-0.07,-0.04,-0.01,-0.04,-0.04,-0.04,0.03,0.01,0.08,0.08
+E08000032,Bradford,Metropolitan district,Yorkshire and The Humber,-0.09,-0.04,-0.01,-0.04,-0.04,-0.03,0.01,0.02,0.07,0.08
+E08000002,Bury,Metropolitan district,North West,-0.04,-0.04,-0.02,-0.03,-0.02,-0.03,0.02,0.02,0.08,0.08
+E08000033,Calderdale,Metropolitan district,Yorkshire and The Humber,-0.05,-0.04,-0.02,-0.03,-0.02,-0.04,0.01,0.02,0.08,0.08
+E08000026,Coventry,Metropolitan district,West Midlands,-0.06,-0.04,-0.01,-0.04,-0.04,-0.02,0.02,0.02,0.10,0.11
+E08000017,Doncaster,Metropolitan district,Yorkshire and The Humber,-0.09,-0.05,-0.01,-0.04,-0.03,-0.03,0.03,0.02,0.10,0.11
+E08000027,Dudley,Metropolitan district,West Midlands,-0.03,-0.03,-0.01,-0.04,-0.03,-0.03,0.02,0.02,0.09,0.10
+E08000037,Gateshead,Metropolitan district,North East,-0.07,-0.04,-0.01,-0.04,-0.04,-0.04,0.02,0.02,0.07,0.06
+E08000034,Kirklees,Metropolitan district,Yorkshire and The Humber,-0.04,-0.03,-0.01,-0.03,-0.02,-0.03,0.02,0.03,0.08,0.10
+E08000011,Knowsley,Metropolitan district,North West,-0.09,-0.07,-0.01,-0.06,-0.06,-0.04,0.02,0.02,0.08,0.08
+E08000035,Leeds,Metropolitan district,Yorkshire and The Humber,-0.05,-0.04,-0.02,-0.03,-0.02,-0.03,0.02,0.02,0.09,0.09
+E08000012,Liverpool,Metropolitan district,North West,-0.09,-0.07,-0.01,-0.06,-0.06,-0.02,0.02,0.02,0.09,0.11
+E08000003,Manchester,Metropolitan district,North West,-0.09,-0.07,-0.01,-0.05,-0.05,-0.03,0.02,0.01,0.09,0.08
+E08000021,Newcastle upon Tyne,Metropolitan district,North East,-0.08,-0.04,-0.01,-0.05,-0.05,-0.04,0.02,0.02,0.08,0.08
+E08000022,North Tyneside,Metropolitan district,North East,-0.04,-0.04,-0.02,-0.04,-0.02,-0.04,0.02,0.02,0.09,0.10
+E08000004,Oldham,Metropolitan district,North West,-0.08,-0.04,-0.01,-0.04,-0.04,-0.04,0.01,0.01,0.08,0.06
+E08000005,Rochdale,Metropolitan district,North West,-0.09,-0.05,-0.02,-0.04,-0.04,-0.04,0.02,0.01,0.09,0.09
+E08000018,Rotherham,Metropolitan district,Yorkshire and The Humber,-0.05,-0.04,-0.02,-0.04,-0.03,-0.03,0.02,0.02,0.08,0.09
+E08000006,Salford,Metropolitan district,North West,-0.09,-0.04,0.00,-0.04,-0.04,-0.02,0.01,0.02,0.12,0.13
+E08000028,Sandwell,Metropolitan district,West Midlands,-0.07,-0.04,0.00,-0.05,-0.05,-0.04,0.02,0.02,0.09,0.09
+E08000014,Sefton,Metropolitan district,North West,-0.07,-0.04,-0.02,-0.04,-0.03,-0.03,0.02,0.03,0.09,0.11
+E08000019,Sheffield,Metropolitan district,Yorkshire and The Humber,-0.08,-0.04,-0.02,-0.05,-0.04,-0.04,0.02,0.02,0.09,0.09
+E08000029,Solihull,Metropolitan district,West Midlands,-0.04,-0.03,-0.02,-0.02,0.01,-0.03,0.02,0.01,0.08,0.09
+E08000023,South Tyneside,Metropolitan district,North East,-0.09,-0.06,-0.01,-0.05,-0.04,-0.04,0.02,0.02,0.08,0.08
+E08000013,St Helens,Metropolitan district,North West,-0.09,-0.05,-0.01,-0.05,-0.03,-0.03,0.03,0.02,0.08,0.11
+E08000007,Stockport,Metropolitan district,North West,-0.03,-0.03,-0.02,-0.03,-0.01,-0.03,0.03,0.02,0.09,0.10
+E08000024,Sunderland,Metropolitan district,North East,-0.09,-0.04,-0.01,-0.05,-0.04,-0.04,0.03,0.02,0.08,0.08
+E08000008,Tameside,Metropolitan district,North West,-0.06,-0.04,-0.01,-0.04,-0.04,-0.04,0.03,0.02,0.10,0.11
+E08000009,Trafford,Metropolitan district,North West,-0.04,-0.04,-0.02,-0.03,-0.01,-0.04,0.02,0.02,0.09,0.09
+E08000036,Wakefield,Metropolitan district,Yorkshire and The Humber,-0.05,-0.04,-0.02,-0.04,-0.02,-0.03,0.03,0.04,0.11,0.16
+E08000030,Walsall,Metropolitan district,West Midlands,-0.07,-0.04,-0.01,-0.04,-0.04,-0.03,0.02,0.02,0.08,0.09
+E08000010,Wigan,Metropolitan district,North West,-0.06,-0.03,-0.02,-0.04,-0.02,-0.05,0.02,0.01,0.08,0.06
+E08000015,Wirral,Metropolitan district,North West,-0.07,-0.04,-0.02,-0.04,-0.03,-0.04,0.02,0.03,0.08,0.09
+E08000031,Wolverhampton,Metropolitan district,West Midlands,-0.07,-0.04,-0.01,-0.05,-0.05,-0.04,0.01,0.02,0.09,0.08
+E09000002,Barking and Dagenham,London borough,London,-0.06,-0.03,0.01,-0.05,-0.05,-0.01,0.02,0.02,0.08,0.10
+E09000003,Barnet,London borough,London,-0.03,-0.03,-0.01,-0.02,0.00,-0.03,0.01,0.01,0.09,0.08
+E09000004,Bexley,London borough,London,-0.03,-0.03,-0.01,-0.03,-0.01,-0.02,0.01,0.01,0.08,0.08
+E09000005,Brent,London borough,London,-0.06,-0.04,0.00,-0.05,-0.04,-0.01,0.02,0.01,0.08,0.11
+E09000006,Bromley,London borough,London,-0.03,-0.03,-0.02,-0.01,0.01,-0.02,0.01,0.00,0.10,0.09
+E09000008,Croydon,London borough,London,-0.05,-0.03,-0.01,-0.02,-0.02,-0.02,0.01,0.02,0.11,0.12
+E09000009,Ealing,London borough,London,-0.05,-0.04,-0.01,-0.04,-0.02,-0.04,-0.01,0.02,0.10,0.06
+E09000010,Enfield,London borough,London,-0.03,-0.03,0.00,-0.04,-0.04,-0.03,0.01,0.01,0.07,0.06
+E09000014,Haringey,London borough,London,-0.08,-0.04,-0.01,-0.05,-0.05,-0.05,0.01,-0.01,0.06,0.01
+E09000015,Harrow,London borough,London,-0.02,-0.02,-0.01,-0.03,-0.02,-0.01,0.02,0.01,0.11,0.12
+E09000016,Havering,London borough,London,-0.02,-0.02,-0.01,-0.01,0.01,0.00,0.02,-0.01,0.07,0.07
+E09000017,Hillingdon,London borough,London,-0.03,-0.03,-0.01,-0.02,-0.01,-0.03,-0.02,-0.02,0.08,0.00
+E09000018,Hounslow,London borough,London,-0.05,-0.04,-0.01,-0.03,-0.02,-0.04,0.01,0.01,0.10,0.07
+E09000021,Kingston upon Thames,London borough,London,-0.03,-0.03,-0.02,-0.01,0.01,-0.02,0.00,-0.03,0.11,0.05
+E09000024,Merton,London borough,London,-0.04,-0.03,-0.02,-0.03,-0.01,-0.04,0.00,0.00,0.08,0.03
+E09000025,Newham,London borough,London,-0.09,-0.07,0.01,-0.06,-0.05,-0.05,0.00,0.01,0.10,0.05
+E09000026,Redbridge,London borough,London,-0.03,-0.03,0.00,-0.03,-0.02,-0.03,0.02,0.02,0.11,0.12
+E09000027,Richmond upon Thames,London borough,London,-0.01,-0.02,-0.01,-0.01,0.02,-0.03,-0.01,-0.01,0.10,0.05
+E09000029,Sutton,London borough,London,-0.03,-0.03,-0.02,-0.02,-0.01,-0.02,-0.01,0.01,0.07,0.05
+E09000031,Waltham Forest,London borough,London,-0.05,-0.04,0.01,-0.04,-0.04,-0.02,0.02,0.01,0.08,0.08
+E10000002,Buckinghamshire,County council,South East,-0.01,-0.02,-0.02,0.00,0.03,-0.01,0.02,0.03,NA,NA
+E10000003,Cambridgeshire,County council,East,-0.03,-0.03,-0.01,-0.01,0.02,-0.03,0.01,0.02,0.13,0.13
+E10000006,Cumbria,County council,North West,-0.02,-0.02,-0.02,-0.02,-0.01,-0.01,0.02,0.02,0.10,0.13
+E10000007,Derbyshire,County council,East Midlands,-0.02,-0.02,-0.02,-0.02,0.00,-0.03,0.03,0.03,0.11,0.15
+E10000008,Devon,County council,South West,-0.02,-0.02,-0.02,-0.02,0.01,-0.01,0.03,0.03,0.10,0.16
+E10000009,Dorset,County council,South West,0.00,-0.01,-0.01,-0.01,0.02,-0.01,0.03,0.04,NA,NA
+E10000011,East Sussex,County council,South East,-0.02,-0.02,-0.02,-0.02,0.01,-0.01,0.03,0.03,0.09,0.15
+E10000012,Essex,County council,East,-0.01,-0.02,-0.02,-0.02,0.01,-0.02,0.02,0.02,0.10,0.13
+E10000013,Gloucestershire,County council,South West,-0.03,-0.02,-0.02,-0.02,0.01,-0.01,0.03,0.03,0.12,0.16
+E10000014,Hampshire,County council,South East,-0.01,-0.02,-0.02,0.00,0.03,-0.01,0.03,0.03,0.10,0.14
+E10000015,Hertfordshire,County council,East,-0.02,-0.02,-0.02,-0.01,0.02,-0.01,0.03,0.02,0.09,0.13
+E10000016,Kent,County council,South East,-0.02,-0.02,-0.01,-0.01,0.01,-0.02,0.03,0.03,0.12,0.17
+E10000017,Lancashire,County council,North West,-0.03,-0.03,-0.02,-0.03,-0.01,-0.03,0.03,0.04,0.11,0.15
+E10000018,Leicestershire,County council,East Midlands,-0.02,-0.02,-0.02,-0.01,0.02,-0.01,0.03,0.04,0.12,0.18
+E10000019,Lincolnshire,County council,East Midlands,-0.03,-0.03,-0.01,-0.03,0.00,-0.01,0.03,0.03,0.11,0.17
+E10000020,Norfolk,County council,East,-0.02,-0.02,-0.01,-0.02,-0.01,-0.02,0.03,0.04,0.10,0.15
+E10000023,North Yorkshire,County council,Yorkshire and The Humber,-0.02,-0.02,-0.02,-0.01,0.01,0.00,0.02,0.03,0.12,0.17
+E10000021,Northamptonshire,County council,East Midlands,-0.03,-0.02,-0.02,-0.02,0.01,-0.02,0.04,0.04,0.07,0.13
+E10000024,Nottinghamshire,County council,East Midlands,-0.03,-0.03,-0.02,-0.02,0.00,-0.02,0.03,0.03,0.10,0.14
+E10000025,Oxfordshire,County council,South East,-0.02,-0.02,-0.02,-0.01,0.01,-0.01,0.03,0.03,0.11,0.16
+E10000027,Somerset,County council,South West,-0.02,-0.02,-0.02,-0.02,0.01,-0.01,0.04,0.04,0.11,0.19
+E10000028,Staffordshire,County council,West Midlands,-0.02,-0.02,-0.02,-0.02,0.01,-0.02,0.04,0.04,0.10,0.15
+E10000029,Suffolk,County council,East,-0.02,-0.02,-0.02,-0.02,0.00,-0.03,0.02,0.03,0.10,0.12
+E10000030,Surrey,County council,South East,0.00,-0.02,0.00,0.00,0.03,-0.01,0.02,0.02,0.10,0.13
+E10000031,Warwickshire,County council,West Midlands,-0.01,-0.02,-0.02,-0.01,0.01,-0.01,0.03,0.03,0.13,0.19
+E10000032,West Sussex,County council,South East,-0.01,-0.02,-0.02,0.00,0.03,-0.01,0.03,0.02,0.12,0.17
+E10000034,Worcestershire,County council,West Midlands,-0.02,-0.02,-0.02,-0.01,0.01,-0.01,0.03,0.03,0.11,0.15
+E06000053,Isles of Scilly,County council,South West,0.00,0.00,-0.01,0.02,0.01,0.01,0.02,0.02,0.06,0.13
+E07000223,Adur,District council,South East,-0.07,-0.04,-0.01,-0.03,-0.04,-0.03,-0.06,-0.05,0.06,-0.08
+E07000026,Allerdale,District council,North West,-0.08,-0.07,0.00,-0.04,-0.06,0.01,-0.03,-0.06,-0.02,-0.09
+E07000032,Amber Valley,District council,East Midlands,-0.07,-0.06,-0.01,-0.05,-0.05,-0.03,-0.04,-0.02,0.04,-0.05
+E07000224,Arun,District council,South East,-0.06,-0.05,0.01,-0.03,-0.03,0.02,-0.03,-0.05,0.03,-0.04
+E07000170,Ashfield,District council,East Midlands,-0.09,-0.08,0.00,-0.04,-0.03,0.00,-0.06,-0.04,-0.07,-0.16
+E07000105,Ashford,District council,South East,-0.09,-0.08,0.04,-0.02,-0.04,0.02,-0.05,-0.07,0.10,0.00
+E07000004,Aylesbury Vale,District council,South East,-0.09,-0.07,0.03,0.01,0.02,0.06,-0.03,-0.07,NA,NA
+E07000200,Babergh,District council,East,-0.09,-0.07,0.01,-0.02,-0.03,0.00,-0.08,-0.04,0.07,-0.06
+E07000027,Barrow-in-Furness,District council,North West,-0.09,-0.09,-0.09,-0.06,-0.06,-0.06,-0.06,-0.02,0.01,-0.13
+E07000066,Basildon,District council,East,-0.06,-0.05,-0.01,-0.03,-0.05,0.00,-0.04,-0.07,0.01,-0.10
+E07000084,Basingstoke and Deane,District council,South East,-0.07,-0.04,0.04,-0.01,-0.02,0.00,-0.17,-0.07,0.16,-0.10
+E07000171,Bassetlaw,District council,East Midlands,-0.09,-0.07,-0.01,-0.06,-0.06,-0.02,-0.06,-0.04,0.02,-0.10
+E07000129,Blaby,District council,East Midlands,-0.07,-0.07,0.00,-0.03,-0.04,0.03,0.01,0.01,0.08,0.13
+E07000033,Bolsover,District council,East Midlands,-0.09,-0.09,-0.09,-0.05,-0.06,-0.03,-0.04,-0.03,0.02,-0.08
+E07000136,Boston,District council,East Midlands,-0.09,-0.08,0.02,-0.05,-0.06,-0.03,-0.07,-0.03,0.15,0.00
+E07000067,Braintree,District council,East,-0.07,-0.06,0.00,-0.04,-0.05,0.01,-0.06,-0.06,0.02,-0.10
+E07000143,Breckland,District council,East,-0.09,-0.09,-0.03,-0.05,-0.05,0.06,-0.05,-0.02,0.00,-0.01
+E07000068,Brentwood,District council,East,-0.06,-0.06,-0.01,0.00,-0.02,-0.01,-0.07,-0.08,0.11,-0.07
+E07000144,Broadland,District council,East,-0.06,-0.06,0.00,-0.03,-0.04,-0.01,-0.02,0.00,0.04,0.02
+E07000234,Bromsgrove,District council,West Midlands,-0.05,-0.04,-0.01,-0.01,-0.01,0.01,0.00,0.00,0.07,0.08
+E07000095,Broxbourne,District council,East,-0.06,-0.05,-0.01,-0.03,-0.06,-0.02,-0.09,-0.07,0.04,-0.13
+E07000172,Broxtowe,District council,East Midlands,-0.08,-0.06,-0.02,-0.06,-0.06,-0.05,-0.08,-0.05,-0.01,-0.19
+E07000117,Burnley,District council,North West,-0.09,-0.09,-0.09,-0.06,-0.06,-0.04,-0.04,-0.03,0.02,-0.09
+E07000008,Cambridge,District council,East,-0.07,-0.06,0.00,0.01,0.02,0.04,-0.04,-0.02,-0.01,-0.03
+E07000192,Cannock Chase,District council,West Midlands,-0.07,-0.06,-0.03,-0.04,-0.06,-0.04,-0.07,0.01,0.07,-0.04
+E07000106,Canterbury,District council,South East,-0.06,-0.06,-0.01,-0.01,-0.04,-0.03,-0.07,-0.08,0.08,-0.10
+E07000028,Carlisle,District council,North West,-0.07,-0.05,0.01,-0.04,-0.04,0.00,-0.04,-0.04,0.02,-0.06
+E07000069,Castle Point,District council,East,-0.06,-0.05,-0.03,-0.04,-0.04,-0.01,-0.05,-0.03,0.02,-0.06
+E07000130,Charnwood,District council,East Midlands,-0.08,-0.07,0.02,-0.03,-0.02,0.01,-0.05,-0.02,0.06,0.00
+E07000070,Chelmsford,District council,East,-0.06,-0.04,-0.01,-0.03,-0.04,0.01,0.00,0.04,0.14,0.19
+E07000078,Cheltenham,District council,South West,-0.06,-0.04,-0.03,-0.03,-0.02,0.00,-0.05,0.00,0.03,-0.03
+E07000177,Cherwell,District council,South East,-0.07,-0.06,0.01,-0.03,-0.03,0.03,0.01,-0.04,0.16,0.16
+E07000034,Chesterfield,District council,East Midlands,-0.09,-0.09,-0.09,-0.07,-0.06,-0.02,-0.06,-0.03,-0.02,-0.13
+E07000225,Chichester,District council,South East,-0.06,-0.05,0.00,0.01,-0.01,0.06,-0.06,-0.04,0.01,-0.03
+E07000005,Chiltern,District council,South East,-0.05,-0.04,-0.02,0.00,-0.04,0.00,-0.01,-0.02,NA,NA
+E07000118,Chorley,District council,North West,-0.07,-0.06,0.02,0.01,-0.01,0.03,-0.05,-0.07,-0.01,-0.11
+E07000048,Christchurch,District council,South West,-0.04,-0.02,-0.02,-0.01,-0.03,0.00,-0.06,-0.02,NA,NA
+E07000071,Colchester,District council,East,-0.06,-0.04,0.01,-0.02,0.00,0.00,-0.07,-0.07,0.06,-0.08
+E07000029,Copeland,District council,North West,-0.09,-0.09,-0.05,-0.04,-0.06,-0.04,-0.05,-0.06,-0.01,-0.15
+E07000150,Corby,District council,East Midlands,-0.09,-0.07,0.04,0.00,-0.02,0.02,-0.09,-0.08,0.06,-0.10
+E07000079,Cotswold,District council,South West,-0.06,-0.06,0.03,0.01,0.01,0.07,-0.05,0.01,0.06,0.09
+E07000163,Craven,District council,Yorkshire and The Humber,-0.07,-0.05,0.00,-0.03,-0.06,0.05,-0.07,-0.04,0.05,-0.03
+E07000226,Crawley,District council,South East,-0.08,-0.04,-0.01,-0.05,-0.06,-0.03,-0.06,0.00,0.06,-0.04
+E07000096,Dacorum,District council,East,-0.06,-0.05,-0.01,0.00,-0.03,0.02,-0.04,-0.04,0.04,-0.02
+E07000107,Dartford,District council,South East,-0.06,-0.05,0.01,-0.01,-0.01,0.03,-0.01,0.04,0.13,0.20
+E07000151,Daventry,District council,East Midlands,-0.07,-0.07,-0.02,-0.05,-0.02,0.04,0.03,0.06,0.17,0.33
+E07000035,Derbyshire Dales,District council,East Midlands,-0.06,-0.05,-0.01,-0.02,-0.03,0.01,-0.06,-0.03,0.07,-0.02
+E07000108,Dover,District council,South East,-0.08,-0.07,0.00,-0.04,-0.06,-0.02,-0.03,-0.03,0.04,-0.03
+E07000009,East Cambridgeshire,District council,East,-0.07,-0.06,0.02,-0.03,-0.04,-0.01,-0.12,-0.09,0.01,-0.20
+E07000040,East Devon,District council,South West,-0.07,-0.05,-0.01,-0.01,0.03,0.08,0.00,-0.02,0.02,0.08
+E07000049,East Dorset,District council,South West,-0.03,-0.03,-0.02,-0.01,-0.02,0.01,-0.03,0.00,NA,NA
+E07000085,East Hampshire,District council,South East,-0.05,-0.05,0.02,0.01,0.02,0.01,-0.09,-0.05,0.14,-0.01
+E07000242,East Hertfordshire,District council,East,-0.06,-0.05,-0.01,0.01,-0.01,0.00,-0.02,-0.05,0.09,0.01
+E07000137,East Lindsey,District council,East Midlands,-0.09,-0.08,-0.01,-0.07,-0.06,0.02,-0.07,-0.02,0.00,-0.08
+E07000152,East Northamptonshire,District council,East Midlands,-0.07,-0.07,0.01,-0.04,-0.03,0.03,-0.05,0.01,0.00,-0.01
+E07000193,East Staffordshire,District council,West Midlands,-0.08,-0.06,0.00,-0.02,-0.05,-0.03,-0.05,-0.05,0.10,-0.04
+E07000061,Eastbourne,District council,South East,-0.06,-0.05,-0.02,-0.04,-0.06,-0.03,-0.06,-0.04,0.03,-0.10
+E07000086,Eastleigh,District council,South East,-0.06,-0.05,0.00,-0.02,-0.03,-0.02,-0.10,-0.05,0.23,0.05
+E07000030,Eden,District council,North West,-0.06,-0.06,0.01,-0.02,-0.05,0.06,-0.05,-0.05,0.04,0.00
+E07000207,Elmbridge,District council,South East,-0.04,-0.04,-0.02,0.01,-0.01,-0.01,-0.07,-0.03,0.05,-0.05
+E07000072,Epping Forest,District council,East,-0.06,-0.06,-0.01,-0.02,-0.04,-0.01,-0.09,-0.09,0.05,-0.14
+E07000208,Epsom and Ewell,District council,South East,-0.05,-0.04,0.01,0.03,0.00,-0.01,-0.08,-0.06,0.01,-0.13
+E07000036,Erewash,District council,East Midlands,-0.07,-0.06,-0.01,-0.06,-0.05,-0.02,-0.06,-0.05,-0.03,-0.15
+E07000041,Exeter,District council,South West,-0.08,-0.07,0.03,-0.04,-0.03,0.01,-0.06,-0.08,0.01,-0.12
+E07000087,Fareham,District council,South East,-0.06,-0.05,0.00,-0.02,-0.03,0.01,-0.07,-0.07,0.04,-0.09
+E07000010,Fenland,District council,East,-0.09,-0.07,-0.01,-0.04,-0.05,-0.01,-0.06,-0.02,-0.01,-0.10
+E07000201,Forest Heath,District council,East,-0.08,-0.07,0.00,-0.01,-0.04,-0.01,-0.20,-0.09,NA,NA
+E07000080,Forest of Dean,District council,South West,-0.07,-0.07,-0.01,-0.04,-0.04,0.02,-0.05,-0.04,-0.04,-0.11
+E07000119,Fylde,District council,North West,-0.06,-0.06,-0.01,-0.01,-0.02,-0.01,-0.04,-0.04,0.11,0.01
+E07000173,Gedling,District council,East Midlands,-0.07,-0.06,0.01,-0.03,-0.04,-0.03,-0.09,-0.08,-0.04,-0.21
+E07000081,Gloucester,District council,South West,-0.08,-0.04,0.02,-0.03,-0.03,0.01,-0.10,-0.07,-0.03,-0.18
+E07000088,Gosport,District council,South East,-0.06,-0.03,0.00,-0.05,-0.06,-0.03,-0.05,-0.05,0.01,-0.12
+E07000109,Gravesham,District council,South East,-0.07,-0.06,0.01,-0.03,-0.05,-0.02,-0.06,-0.07,0.04,-0.11
+E07000145,Great Yarmouth,District council,East,-0.09,-0.09,-0.09,-0.07,-0.06,-0.04,-0.06,-0.04,-0.01,-0.14
+E07000209,Guildford,District council,South East,-0.06,-0.05,0.00,-0.03,-0.04,0.01,-0.04,-0.06,0.03,-0.06
+E07000164,Hambleton,District council,Yorkshire and The Humber,-0.07,-0.07,0.01,-0.03,-0.04,0.09,-0.06,0.02,0.05,0.10
+E07000131,Harborough,District council,East Midlands,-0.06,-0.06,-0.02,0.01,0.01,0.05,-0.05,-0.02,0.07,0.04
+E07000073,Harlow,District council,East,-0.09,-0.06,-0.03,-0.05,-0.04,-0.04,-0.05,-0.02,0.08,-0.04
+E07000165,Harrogate,District council,Yorkshire and The Humber,-0.05,-0.05,-0.03,-0.03,-0.03,-0.02,-0.05,0.00,0.10,0.02
+E07000089,Hart,District council,South East,-0.04,-0.04,0.00,0.02,0.00,0.03,0.01,0.01,0.09,0.14
+E07000062,Hastings,District council,South East,-0.09,-0.09,-0.09,-0.04,-0.06,-0.03,-0.06,-0.03,-0.02,-0.13
+E07000090,Havant,District council,South East,-0.06,-0.06,-0.03,-0.04,-0.05,-0.01,-0.03,-0.02,-0.03,-0.08
+E07000098,Hertsmere,District council,East,-0.08,-0.06,-0.02,-0.03,-0.02,0.00,-0.05,-0.06,0.05,-0.07
+E07000037,High Peak,District council,East Midlands,-0.06,-0.06,-0.03,-0.05,-0.05,-0.03,-0.04,-0.03,0.05,-0.05
+E07000132,Hinckley and Bosworth,District council,East Midlands,-0.07,-0.07,0.00,-0.03,-0.02,0.06,-0.03,-0.02,-0.06,-0.04
+E07000227,Horsham,District council,South East,-0.05,-0.05,-0.01,0.02,0.03,0.07,0.01,0.02,0.07,0.18
+E07000011,Huntingdonshire,District council,East,-0.08,-0.07,0.03,-0.04,-0.02,-0.02,-0.10,-0.06,0.00,-0.17
+E07000120,Hyndburn,District council,North West,-0.09,-0.09,-0.09,-0.06,-0.06,-0.05,-0.03,-0.03,0.00,-0.12
+E07000202,Ipswich,District council,East,-0.05,-0.03,-0.01,-0.04,-0.04,-0.02,-0.06,-0.02,0.02,-0.07
+E07000153,Kettering,District council,East Midlands,-0.06,-0.05,0.00,-0.02,-0.02,0.00,-0.06,-0.02,0.04,-0.04
+E07000146,King's Lynn and West Norfolk,District council,East,-0.09,-0.07,0.01,-0.04,-0.06,-0.01,-0.08,-0.07,0.01,-0.14
+E07000121,Lancaster,District council,North West,-0.08,-0.07,-0.02,-0.06,-0.06,-0.01,-0.04,-0.01,0.01,-0.05
+E07000063,Lewes,District council,South East,-0.05,-0.04,-0.01,-0.02,-0.04,-0.02,-0.06,-0.06,0.03,-0.11
+E07000194,Lichfield,District council,West Midlands,-0.06,-0.05,-0.01,-0.01,-0.03,0.00,-0.07,-0.05,0.16,0.03
+E07000138,Lincoln,District council,East Midlands,-0.07,-0.06,-0.02,-0.03,-0.05,-0.03,-0.08,-0.06,0.00,-0.15
+E07000110,Maidstone,District council,South East,-0.04,-0.04,0.02,0.00,-0.01,0.01,-0.06,0.00,0.13,0.07
+E07000074,Maldon,District council,East,-0.06,-0.05,-0.02,-0.03,-0.05,-0.01,-0.02,-0.01,0.10,0.05
+E07000235,Malvern Hills,District council,West Midlands,-0.07,-0.07,-0.01,-0.02,-0.02,0.01,-0.08,-0.02,0.12,0.03
+E07000174,Mansfield,District council,East Midlands,-0.09,-0.06,-0.02,-0.05,-0.06,-0.04,-0.05,-0.07,-0.03,-0.17
+E07000133,Melton,District council,East Midlands,-0.07,-0.06,-0.01,-0.01,-0.06,0.01,-0.11,-0.05,0.07,-0.09
+E07000187,Mendip,District council,South West,-0.06,-0.06,0.01,-0.02,-0.03,0.03,-0.07,-0.07,0.02,-0.08
+E07000042,Mid Devon,District council,South West,-0.07,-0.06,0.01,0.00,-0.03,0.02,-0.04,-0.05,0.07,-0.02
+E07000203,Mid Suffolk,District council,East,-0.06,-0.06,0.01,0.00,-0.01,0.03,-0.09,-0.06,0.07,-0.06
+E07000228,Mid Sussex,District council,South East,-0.05,-0.05,0.01,0.03,0.01,0.05,-0.02,-0.03,0.04,0.03
+E07000210,Mole Valley,District council,South East,-0.04,-0.04,0.00,-0.01,-0.02,-0.01,-0.04,-0.04,0.08,-0.01
+E07000091,New Forest,District council,South East,-0.06,-0.05,-0.03,-0.02,-0.04,-0.03,-0.07,-0.06,0.04,-0.12
+E07000175,Newark and Sherwood,District council,East Midlands,-0.07,-0.07,-0.02,-0.04,-0.05,-0.02,-0.06,-0.04,0.04,-0.08
+E07000195,Newcastle-under-Lyme,District council,West Midlands,-0.07,-0.06,-0.02,-0.04,-0.04,-0.02,-0.07,-0.04,-0.03,-0.15
+E07000043,North Devon,District council,South West,-0.08,-0.06,-0.02,-0.06,-0.05,0.00,-0.05,0.02,0.07,0.05
+E07000050,North Dorset,District council,South West,-0.07,-0.06,0.04,-0.03,-0.01,0.02,-0.10,-0.08,NA,NA
+E07000038,North East Derbyshire,District council,East Midlands,-0.06,-0.06,-0.03,-0.06,-0.06,0.00,-0.04,-0.03,0.01,-0.06
+E07000099,North Hertfordshire,District council,East,-0.05,-0.05,-0.01,-0.01,-0.02,-0.02,-0.07,-0.02,0.03,-0.08
+E07000139,North Kesteven,District council,East Midlands,-0.08,-0.06,0.01,-0.03,-0.04,0.04,-0.09,-0.04,0.04,-0.05
+E07000147,North Norfolk,District council,East,-0.07,-0.06,-0.02,-0.03,-0.04,0.01,-0.08,-0.03,0.01,-0.09
+E07000218,North Warwickshire,District council,West Midlands,-0.07,-0.06,-0.03,-0.04,-0.05,-0.02,-0.05,-0.03,0.00,-0.10
+E07000134,North West Leicestershire,District council,East Midlands,-0.07,-0.06,-0.01,-0.02,0.00,0.01,-0.02,0.01,0.08,0.07
+E07000154,Northampton,District council,East Midlands,-0.07,-0.04,-0.01,-0.03,-0.03,-0.01,-0.05,-0.04,0.01,-0.09
+E07000148,Norwich,District council,East,-0.09,-0.08,-0.01,-0.05,-0.06,-0.03,-0.09,-0.05,0.02,-0.15
+E07000219,Nuneaton and Bedworth,District council,West Midlands,-0.07,-0.05,-0.01,-0.04,-0.06,-0.01,-0.04,-0.04,0.07,-0.02
+E07000135,Oadby and Wigston,District council,East Midlands,-0.07,-0.06,-0.03,-0.05,-0.06,-0.03,-0.04,-0.02,0.01,-0.08
+E07000178,Oxford,District council,South East,-0.06,-0.06,-0.02,-0.04,-0.05,-0.02,-0.07,-0.04,0.01,-0.12
+E07000122,Pendle,District council,North West,-0.09,-0.09,-0.09,-0.05,-0.06,-0.04,-0.05,-0.05,0.01,-0.12
+E07000123,Preston,District council,North West,-0.09,-0.09,-0.07,-0.05,-0.06,-0.03,-0.03,0.00,0.11,0.04
+E07000051,Purbeck,District council,South West,-0.05,-0.05,-0.02,-0.03,-0.05,0.00,-0.05,-0.03,NA,NA
+E07000236,Redditch,District council,West Midlands,-0.07,-0.06,-0.02,-0.03,-0.05,-0.01,-0.04,-0.04,0.08,-0.02
+E07000211,Reigate and Banstead,District council,South East,-0.05,-0.03,-0.01,0.00,0.02,0.00,-0.04,0.00,0.02,-0.02
+E07000124,Ribble Valley,District council,North West,-0.06,-0.06,-0.01,-0.02,-0.01,0.04,-0.01,0.00,0.06,0.10
+E07000166,Richmondshire,District council,Yorkshire and The Humber,-0.06,-0.06,0.03,-0.03,-0.03,0.01,-0.04,-0.04,0.04,-0.03
+E07000075,Rochford,District council,East,-0.05,-0.04,-0.03,-0.03,-0.01,-0.01,-0.05,-0.01,0.02,-0.04
+E07000125,Rossendale,District council,North West,-0.09,-0.08,-0.04,-0.04,-0.05,-0.03,-0.05,-0.03,-0.01,-0.11
+E07000064,Rother,District council,South East,-0.06,-0.05,-0.03,-0.03,-0.03,0.00,-0.07,-0.05,0.01,-0.11
+E07000220,Rugby,District council,West Midlands,-0.06,-0.06,0.01,-0.01,-0.01,0.03,-0.06,-0.05,0.09,0.01
+E07000212,Runnymede,District council,South East,-0.06,-0.06,-0.01,-0.03,-0.04,0.03,-0.10,-0.07,0.17,0.02
+E07000176,Rushcliffe,District council,East Midlands,-0.06,-0.06,0.00,-0.01,-0.03,-0.01,-0.04,-0.05,0.16,0.05
+E07000092,Rushmoor,District council,South East,-0.07,-0.05,-0.01,-0.02,-0.03,-0.02,-0.08,-0.04,0.05,-0.08
+E07000167,Ryedale,District council,Yorkshire and The Humber,-0.06,-0.06,0.01,0.00,-0.03,0.06,-0.07,-0.05,0.02,-0.04
+E07000168,Scarborough,District council,Yorkshire and The Humber,-0.07,-0.05,-0.01,-0.05,-0.06,-0.03,-0.04,-0.03,0.00,-0.10
+E07000188,Sedgemoor,District council,South West,-0.07,-0.07,0.04,-0.03,-0.03,0.02,-0.09,-0.09,-0.01,-0.16
+E07000169,Selby,District council,Yorkshire and The Humber,-0.07,-0.05,0.01,-0.01,-0.04,0.01,-0.07,-0.05,0.14,0.02
+E07000111,Sevenoaks,District council,South East,-0.05,-0.05,-0.02,-0.01,-0.01,0.00,-0.05,-0.01,0.07,0.01
+E07000112,Shepway,District council,South East,-0.09,-0.05,-0.01,-0.04,-0.05,-0.01,-0.05,-0.01,0.05,-0.03
+E07000006,South Bucks,District council,South East,-0.04,-0.05,-0.02,0.02,-0.01,-0.01,-0.07,-0.06,NA,NA
+E07000012,South Cambridgeshire,District council,East,-0.07,-0.06,0.03,-0.01,0.02,0.05,-0.10,-0.05,0.06,-0.05
+E07000039,South Derbyshire,District council,East Midlands,-0.07,-0.07,-0.01,-0.02,-0.02,0.00,-0.05,0.01,0.18,0.13
+E07000044,South Hams,District council,South West,-0.06,-0.05,0.00,-0.01,-0.02,0.04,-0.09,-0.02,0.07,-0.01
+E07000140,South Holland,District council,East Midlands,-0.09,-0.07,0.01,-0.05,-0.06,0.00,-0.06,-0.04,0.03,-0.07
+E07000141,South Kesteven,District council,East Midlands,-0.07,-0.06,0.02,-0.02,-0.03,0.02,-0.08,-0.07,0.01,-0.12
+E07000031,South Lakeland,District council,North West,-0.05,-0.05,-0.03,-0.03,-0.02,0.01,-0.02,-0.01,0.02,-0.01
+E07000149,South Norfolk,District council,East,-0.07,-0.06,0.03,0.00,0.01,0.03,-0.07,-0.03,0.08,0.01
+E07000155,South Northamptonshire,District council,East Midlands,-0.07,-0.06,0.00,-0.02,0.00,0.04,-0.02,0.00,0.14,0.16
+E07000179,South Oxfordshire,District council,South East,-0.06,-0.06,0.00,0.01,0.02,0.01,-0.04,-0.08,0.08,-0.04
+E07000126,South Ribble,District council,North West,-0.06,-0.05,-0.02,-0.04,-0.02,0.00,-0.05,-0.03,-0.01,-0.09
+E07000189,South Somerset,District council,South West,-0.08,-0.05,0.02,0.01,-0.03,0.01,-0.06,-0.11,0.02,-0.14
+E07000196,South Staffordshire,District council,West Midlands,-0.07,-0.06,0.00,-0.03,-0.05,-0.01,-0.07,-0.07,-0.02,-0.15
+E07000213,Spelthorne,District council,South East,-0.05,-0.04,0.00,-0.01,-0.02,-0.01,-0.05,-0.03,0.03,-0.06
+E07000240,St Albans,District council,East,-0.06,-0.05,0.00,0.01,0.00,-0.01,-0.08,-0.09,0.02,-0.15
+E07000204,St Edmundsbury,District council,East,-0.06,-0.05,0.00,-0.04,-0.04,0.02,-0.05,-0.05,NA,NA
+E07000197,Stafford,District council,West Midlands,-0.06,-0.06,-0.01,-0.02,-0.04,0.02,-0.01,-0.01,0.09,0.09
+E07000198,Staffordshire Moorlands,District council,West Midlands,-0.08,-0.07,-0.04,-0.04,-0.05,-0.03,-0.07,-0.04,-0.03,-0.16
+E07000243,Stevenage,District council,East,-0.06,-0.05,-0.01,-0.04,-0.05,-0.01,-0.05,-0.02,0.00,-0.08
+E07000221,Stratford-on-Avon,District council,West Midlands,-0.06,-0.05,0.01,-0.01,0.00,0.06,0.00,0.04,0.17,0.29
+E07000082,Stroud,District council,South West,-0.06,-0.06,-0.01,-0.01,0.00,0.03,-0.06,-0.04,0.01,-0.06
+E07000205,Suffolk Coastal,District council,East,-0.07,-0.05,-0.02,-0.02,-0.04,0.02,-0.03,-0.02,NA,NA
+E07000214,Surrey Heath,District council,South East,-0.05,-0.04,-0.01,0.00,-0.01,-0.02,-0.03,-0.01,0.07,0.01
+E07000113,Swale,District council,South East,-0.08,-0.07,-0.01,-0.04,-0.04,-0.01,-0.06,-0.04,0.00,-0.11
+E07000199,Tamworth,District council,West Midlands,-0.07,-0.07,-0.02,-0.06,-0.06,-0.04,-0.07,-0.04,0.10,-0.06
+E07000215,Tandridge,District council,South East,-0.04,-0.04,0.00,0.00,0.00,-0.01,-0.03,-0.04,0.06,-0.02
+E07000190,Taunton Deane,District council,South West,-0.07,-0.05,0.03,-0.01,0.01,0.03,0.01,-0.03,NA,NA
+E07000045,Teignbridge,District council,South West,-0.06,-0.06,-0.01,-0.01,0.00,0.02,-0.05,-0.03,-0.01,-0.07
+E07000076,Tendring,District council,East,-0.07,-0.07,-0.01,-0.06,-0.06,-0.03,-0.05,-0.03,0.04,-0.07
+E07000093,Test Valley,District council,South East,-0.07,-0.06,0.02,0.04,0.01,0.07,-0.01,-0.07,0.03,0.01
+E07000083,Tewkesbury,District council,South West,-0.07,-0.06,0.01,0.02,0.03,0.05,-0.03,0.01,0.11,0.14
+E07000114,Thanet,District council,South East,-0.09,-0.09,-0.04,-0.04,-0.05,-0.02,-0.08,-0.05,-0.02,-0.16
+E07000102,Three Rivers,District council,East,-0.06,-0.06,-0.02,-0.03,0.00,0.01,-0.05,-0.06,0.03,-0.07
+E07000115,Tonbridge and Malling,District council,South East,-0.05,-0.04,0.00,0.01,0.00,0.02,-0.03,0.02,0.07,0.08
+E07000046,Torridge,District council,South West,-0.07,-0.07,0.02,-0.04,-0.04,0.05,-0.06,-0.04,-0.03,-0.08
+E07000116,Tunbridge Wells,District council,South East,-0.06,-0.05,0.02,-0.04,-0.04,0.01,-0.05,-0.01,0.08,0.02
+E07000077,Uttlesford,District council,East,-0.06,-0.05,0.07,0.05,0.03,0.06,-0.07,-0.08,0.15,0.05
+E07000180,Vale of White Horse,District council,South East,-0.07,-0.06,-0.01,0.01,0.00,0.04,0.01,0.00,0.15,0.21
+E07000222,Warwick,District council,West Midlands,-0.06,-0.05,-0.03,-0.05,-0.04,0.01,-0.04,0.04,0.15,0.15
+E07000103,Watford,District council,East,-0.06,-0.06,0.00,0.00,-0.02,-0.03,-0.11,-0.09,0.04,-0.19
+E07000206,Waveney,District council,East,-0.08,-0.07,-0.02,-0.05,-0.06,-0.03,-0.07,-0.05,NA,NA
+E07000216,Waverley,District council,South East,-0.05,-0.04,-0.01,-0.01,-0.02,0.02,-0.05,-0.03,0.04,-0.03
+E07000065,Wealden,District council,South East,-0.05,-0.05,0.02,0.01,0.02,0.02,-0.07,-0.07,0.03,-0.10
+E07000156,Wellingborough,District council,East Midlands,-0.08,-0.07,-0.02,-0.05,-0.06,0.01,-0.05,-0.02,0.01,-0.05
+E07000241,Welwyn Hatfield,District council,East,-0.05,-0.02,-0.01,-0.03,-0.03,-0.02,-0.04,-0.04,0.02,-0.07
+E07000047,West Devon,District council,South West,-0.06,-0.06,0.01,-0.02,-0.03,0.04,-0.13,-0.03,0.01,-0.11
+E07000052,West Dorset,District council,South West,-0.08,-0.07,-0.01,-0.02,-0.03,0.02,-0.06,-0.04,NA,NA
+E07000127,West Lancashire,District council,North West,-0.07,-0.06,-0.01,-0.04,-0.05,-0.02,-0.03,-0.05,0.00,-0.10
+E07000142,West Lindsey,District council,East Midlands,-0.07,-0.06,0.00,-0.03,-0.04,0.03,-0.09,-0.05,-0.03,-0.13
+E07000181,West Oxfordshire,District council,South East,-0.07,-0.05,0.03,-0.02,-0.04,0.03,-0.05,-0.03,0.10,0.04
+E07000191,West Somerset,District council,South West,-0.09,-0.08,0.01,-0.05,-0.06,0.03,-0.07,-0.02,NA,NA
+E07000053,Weymouth and Portland,District council,South West,-0.06,-0.06,-0.04,-0.02,-0.04,-0.03,-0.06,-0.04,NA,NA
+E07000094,Winchester,District council,South East,-0.06,-0.04,0.00,0.00,0.01,0.01,-0.06,-0.05,0.12,0.00
+E07000217,Woking,District council,South East,-0.07,-0.05,-0.02,0.00,-0.03,0.01,-0.03,-0.01,0.01,-0.03
+E07000237,Worcester,District council,West Midlands,-0.06,-0.05,0.00,-0.02,-0.04,0.02,-0.04,-0.06,-0.03,-0.11
+E07000229,Worthing,District council,South East,-0.06,-0.04,-0.02,-0.03,-0.04,0.00,-0.05,-0.02,0.04,-0.03
+E07000238,Wychavon,District council,West Midlands,-0.08,-0.06,0.00,0.00,0.01,0.07,0.00,-0.03,0.08,0.13
+E07000007,Wycombe,District council,South East,-0.07,-0.06,-0.01,-0.02,-0.03,-0.01,-0.12,-0.05,NA,NA
+E07000128,Wyre,District council,North West,-0.06,-0.06,-0.02,-0.04,-0.03,-0.01,-0.04,-0.04,0.00,-0.09
+E07000239,Wyre Forest,District council,West Midlands,-0.08,-0.06,-0.02,-0.02,-0.03,0.01,-0.08,-0.06,-0.04,-0.17
+E06000022,Bath & North East Somerset,Unitary authority,South West,-0.03,-0.02,-0.02,-0.02,0.01,-0.02,0.02,0.01,0.10,0.12
+E06000055,Bedford,Unitary authority,East,-0.04,-0.03,-0.02,-0.01,0.00,-0.01,0.01,0.01,0.09,0.10
+E06000008,Blackburn with Darwen,Unitary authority,North West,-0.09,-0.06,-0.01,-0.05,-0.05,-0.05,0.02,0.02,0.07,0.07
+E06000009,Blackpool,Unitary authority,North West,-0.07,-0.03,-0.01,-0.05,-0.05,-0.04,0.02,0.02,0.08,0.07
+E06000028,Bournemouth,Unitary authority,South West,-0.04,-0.04,-0.02,-0.03,-0.01,-0.02,0.02,0.03,NA,NA
+E06000036,Bracknell Forest,Unitary authority,South East,-0.03,-0.03,-0.02,-0.01,0.01,-0.01,0.00,0.01,0.07,0.06
+E06000043,Brighton & Hove,Unitary authority,South East,-0.05,-0.04,-0.02,-0.03,-0.02,-0.02,0.02,0.03,0.07,0.09
+E06000023,Bristol,Unitary authority,South West,-0.04,-0.03,-0.02,-0.03,-0.03,-0.03,0.01,0.02,0.08,0.07
+E06000056,Central Bedfordshire,Unitary authority,East,-0.02,-0.02,-0.01,0.00,0.02,0.01,0.01,0.00,0.09,0.10
+E06000049,Cheshire East,Unitary authority,North West,-0.02,-0.02,-0.02,-0.01,0.02,0.00,0.02,0.03,0.11,0.17
+E06000050,Cheshire West & Chester,Unitary authority,North West,-0.03,-0.03,-0.02,-0.02,0.00,-0.01,0.02,0.03,0.12,0.15
+E06000052,Cornwall,Unitary authority,South West,-0.03,-0.03,-0.01,-0.03,-0.01,-0.02,0.01,0.03,0.09,0.12
+E06000005,Darlington,Unitary authority,North East,-0.04,-0.03,0.00,-0.04,-0.02,-0.02,0.01,0.02,0.08,0.09
+E06000015,Derby,Unitary authority,East Midlands,-0.05,-0.04,-0.02,-0.04,-0.03,-0.03,0.02,0.02,0.08,0.10
+E06000047,Durham,Unitary authority,North East,-0.07,-0.03,-0.01,-0.04,-0.03,-0.03,0.02,0.02,0.10,0.12
+E06000011,East Riding of Yorkshire,Unitary authority,Yorkshire and The Humber,-0.03,-0.03,-0.02,-0.03,-0.01,-0.02,0.02,0.03,0.09,0.13
+E06000006,Halton,Unitary authority,North West,-0.09,-0.04,-0.01,-0.04,-0.04,-0.03,0.02,0.02,0.08,0.09
+E06000001,Hartlepool,Unitary authority,North East,-0.09,-0.06,-0.02,-0.04,-0.04,-0.03,0.01,0.02,0.08,0.09
+E06000019,Herefordshire,Unitary authority,West Midlands,-0.03,-0.03,-0.01,-0.02,-0.01,0.01,0.00,0.02,0.09,0.12
+E06000046,Isle of Wight Council,Unitary authority,South East,-0.04,-0.03,-0.02,-0.03,-0.02,-0.02,0.02,0.03,0.08,0.11
+E06000010,Kingston upon Hull,Unitary authority,Yorkshire and The Humber,-0.09,-0.05,-0.01,-0.06,-0.06,-0.03,0.03,0.02,0.09,0.11
+E06000016,Leicester,Unitary authority,East Midlands,-0.07,-0.04,0.01,-0.05,-0.05,-0.03,0.01,0.02,0.09,0.09
+E06000032,Luton,Unitary authority,East,-0.06,-0.03,0.01,-0.04,-0.03,-0.02,0.01,0.02,0.07,0.07
+E06000035,Medway,Unitary authority,South East,-0.04,-0.03,-0.01,-0.02,-0.01,-0.02,0.00,0.02,0.07,0.06
+E06000002,Middlesbrough,Unitary authority,North East,-0.09,-0.04,0.00,-0.05,-0.05,-0.03,0.02,0.01,0.08,0.09
+E06000042,Milton Keynes,Unitary authority,South East,-0.03,-0.03,-0.01,-0.02,-0.02,-0.02,0.00,0.01,0.09,0.07
+E06000012,North East Lincolnshire,Unitary authority,Yorkshire and The Humber,-0.09,-0.04,-0.02,-0.04,-0.04,-0.03,0.02,0.02,0.08,0.08
+E06000013,North Lincolnshire,Unitary authority,Yorkshire and The Humber,-0.04,-0.03,-0.01,-0.03,-0.02,-0.03,0.02,0.02,0.09,0.09
+E06000024,North Somerset,Unitary authority,South West,-0.02,-0.02,-0.02,-0.02,0.01,-0.01,0.02,0.02,0.08,0.10
+E06000057,Northumberland,Unitary authority,North East,-0.06,-0.03,-0.02,-0.03,-0.01,-0.02,0.02,0.03,0.09,0.12
+E06000018,Nottingham,Unitary authority,East Midlands,-0.08,-0.04,0.00,-0.05,-0.05,-0.04,0.01,0.03,0.08,0.08
+E06000031,Peterborough,Unitary authority,East,-0.05,-0.04,0.01,-0.03,-0.02,-0.02,0.01,0.02,0.08,0.09
+E06000026,Plymouth,Unitary authority,South West,-0.04,-0.03,-0.01,-0.04,-0.03,-0.04,0.02,0.02,0.09,0.09
+E06000029,Poole,Unitary authority,South West,-0.01,-0.02,-0.02,-0.01,0.02,-0.02,0.02,0.03,NA,NA
+E06000044,Portsmouth,Unitary authority,South East,-0.04,-0.03,-0.01,-0.04,-0.03,-0.04,0.02,0.01,0.09,0.08
+E06000038,Reading,Unitary authority,South East,-0.04,-0.04,-0.02,-0.02,-0.02,-0.02,0.03,0.02,0.09,0.12
+E06000003,Redcar and Cleveland,Unitary authority,North East,-0.09,-0.04,-0.01,-0.04,-0.04,-0.04,0.01,0.01,0.08,0.06
+E06000017,Rutland,Unitary authority,East Midlands,-0.02,-0.02,-0.02,-0.01,0.02,0.03,0.00,0.03,0.11,0.17
+E06000051,Shropshire,Unitary authority,West Midlands,-0.03,-0.03,-0.01,-0.02,0.00,0.01,0.01,0.04,0.10,0.17
+E06000039,Slough,Unitary authority,South East,-0.05,-0.04,-0.01,-0.04,-0.03,-0.02,0.01,0.01,0.08,0.08
+E06000025,South Gloucestershire,Unitary authority,South West,-0.02,-0.02,-0.02,-0.01,0.01,0.00,0.00,0.02,0.09,0.11
+E06000045,Southampton,Unitary authority,South East,-0.04,-0.03,-0.01,-0.04,-0.03,-0.03,0.03,0.03,0.08,0.11
+E06000033,Southend-on-Sea,Unitary authority,East,-0.04,-0.03,-0.01,-0.03,-0.02,-0.03,0.03,0.02,0.10,0.11
+E06000004,Stockton-on-Tees,Unitary authority,North East,-0.07,-0.04,-0.01,-0.03,-0.02,-0.03,0.02,0.02,0.09,0.10
+E06000021,Stoke-on-Trent,Unitary authority,West Midlands,-0.08,-0.03,0.00,-0.05,-0.04,-0.05,0.02,0.02,0.09,0.06
+E06000030,Swindon,Unitary authority,South West,-0.02,-0.02,-0.01,-0.01,0.00,-0.01,0.01,0.01,0.11,0.12
+E06000020,Telford and the Wrekin,Unitary authority,West Midlands,-0.04,-0.03,0.00,-0.03,-0.03,-0.02,0.02,0.02,0.09,0.11
+E06000034,Thurrock,Unitary authority,East,-0.02,-0.02,-0.02,-0.03,-0.02,-0.03,0.03,0.02,0.06,0.07
+E06000027,Torbay,Unitary authority,South West,-0.03,-0.03,-0.02,-0.04,-0.03,-0.03,0.03,0.03,0.09,0.13
+E06000007,Warrington,Unitary authority,North West,-0.04,-0.03,-0.02,-0.02,0.00,-0.02,0.02,0.02,0.07,0.09
+E06000037,West Berkshire,Unitary authority,South East,-0.02,-0.02,-0.02,-0.01,0.02,-0.01,0.01,0.01,0.09,0.10
+E06000054,Wiltshire,Unitary authority,South West,-0.02,-0.03,-0.01,-0.01,0.01,0.01,0.01,0.03,0.10,0.15
+E06000040,Windsor and Maidenhead,Unitary authority,South East,-0.01,-0.02,-0.02,0.00,0.03,-0.01,0.01,0.00,0.10,0.10
+E06000041,Wokingham,Unitary authority,South East,-0.01,-0.02,-0.01,0.00,0.03,0.00,0.01,0.04,0.15,0.21
+E06000014,York,Unitary authority,Yorkshire and The Humber,-0.03,-0.03,-0.01,-0.02,0.00,-0.01,0.01,0.02,0.08,0.10

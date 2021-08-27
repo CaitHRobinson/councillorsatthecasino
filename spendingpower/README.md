@@ -2,7 +2,7 @@
 
 Replicate spending power graphs using code and relevant data for both percentage change (2015/16 - 2020/21) or change in actual spending (£ million).
 
-Dataset reference: [MHCLG Local Government Finance Settlement data.](https://www.gov.uk/government/collections/final-local-government-finance-settlement-england-2021-to-2022)
+Dataset reference: [MHCLG Local Government Finance Settlement data](https://www.gov.uk/government/collections/final-local-government-finance-settlement-england-2021-to-2022)
 
 ![image](https://user-images.githubusercontent.com/57355504/131139114-3ae3768c-8537-400b-b12d-e968cb3abfe2.png)
 

@@ -1,14 +1,4 @@
-```{r}
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets/Audits")
-getwd()
-```
-#Load the libraries
-```{r}
-library(data.table)
-library(dplyr)
-library(formattable)
-library(tidyr)
-```
+# Create summary tables of frequency of auditors
 
 ```{r}
 Audits_data_2013 <- read.csv("2013_2014.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
@@ -16,12 +6,7 @@ Audits_data_2013
 ```
 
 ```{r}
-table2013 <- table(Audits_data_2013$'Auditor', Audits_data_2013$'Body type')
-as.data.frame(table2013)
-```
-
-```{r}
-formattable(table2013)
+table(Audits_data_2013$'Auditor', Audits_data_2013$'Body type')
 ```
 
 ```{r}

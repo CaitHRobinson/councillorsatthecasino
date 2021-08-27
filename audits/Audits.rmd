@@ -1,0 +1,43 @@
+```{r}
+setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets/Audits")
+getwd()
+```
+#Load the libraries
+```{r}
+library(data.table)
+library(dplyr)
+library(formattable)
+library(tidyr)
+```
+
+```{r}
+Audits_data_2013 <- read.csv("2013_2014.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+Audits_data_2013
+```
+
+```{r}
+table2013 <- table(Audits_data_2013$'Auditor', Audits_data_2013$'Body type')
+as.data.frame(table2013)
+```
+
+```{r}
+formattable(table2013)
+```
+
+```{r}
+Audits_data_2014 <- read.csv("2014_2015.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+Audits_data_2014
+```
+
+```{r}
+table(Audits_data_2014$'Audit Firm', Audits_data_2014$'Body type')
+```
+
+```{r}
+Audits_data_2015 <- read.csv("2015_2016.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+Audits_data_2015
+```
+
+```{r}
+table(Audits_data_2015$'Audit Firm', Audits_data_2015$'Body type')
+```

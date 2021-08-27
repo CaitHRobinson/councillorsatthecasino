@@ -1,0 +1,84 @@
+# Set your working directory
+
+```{r}
+setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets")
+getwd()
+```
+
+```{r}
+library(ggplot2)
+library(tidyr)
+library(RColorBrewer)
+library(dplyr)
+library(ggrepel) # For labels
+library(viridis) # For colour palettes
+```
+
+# Graphs of spending power %
+
+## Upload spending power % data from csv file
+
+```{r}
+spend_data <- read.csv("SpendingPercentage.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+spend_data
+```
+
+## Ammend data
+
+```{r}
+# Rename column as change
+spend_data <- spend_data %>%
+      rename("Change" = "201516_202021")
+
+# Select only useful columns in dataframe
+spend_data_select <- spend_data %>%
+      select("ons_name", "class", "region", "Change")
+
+# Omit NA values
+na.omit(spend_data_select)
+```
+
+## Polt violin chart of spending power % change
+
+```{r}
+ggplot(spend_data, aes(x= class, y = Change))+ 
+  geom_violin(fill="gray")+
+  theme_minimal()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  labs(title="Local Authority revenue spending power", y="Change in spending 2015/16 to 2020/21 (%)", x = " ")+
+    stat_summary(fun.y=median, geom="point", size=2)
+```
+
+```{r}
+spendmillions_data <- read.csv("SpendingMillions.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+spendmillions_data
+
+na.omit(spendmillions_data)
+
+spendmillions_data_long <-gather(spendmillions_data ,key="year",value="spending", c("2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021"))
+print(spendmillions_data_long)
+```
+
+# Graphs of spending power (millions £)
+
+## Make data into long format 
+
+```{r}
+spendmillions_data_long$spending <- as.numeric(spendmillions_data_long$spending)
+```
+
+## Create graph
+
+```{r}
+ggplot(spendmillions_data_long, aes(y=spending, x=year)) + 
+    geom_col()+
+  theme_minimal()+
+  scale_x_discrete(breaks = c('2012', '2013', '2014', '2015', '2016', # Rename axis tick labels to reflect financial year
+                              '2017', '2018', '2019', '2020', '2021'),
+                              labels=c("2011/12", "2012/13", "2013/14", 
+                            "2014/15", "2015/16", "2016/17", "2017/18", 
+                            "2018/19", "2019/20", "2020/21"))+
+theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+ facet_wrap(~class, scales = "free_x")+ # Create multiple graphs, one for each LAD class
+  labs(title="Local Authority revenue spending power", y="Total spending (£ millions)", x = " ")
+```

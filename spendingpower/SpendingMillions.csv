@@ -1,0 +1,353 @@
+ons_code,ons_name,class,region,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+E09000007,Camden,London borough,London,309.65,292.64,318.08,308.08,298.1,244.55,244.15,244.86,247.54,262.69
+E09000011,Greenwich,London borough,London,273.69,257.81,276.6,269.48,262.79,219.92,226.78,231.68,235.18,252.9
+E09000012,Hackney,London borough,London,337.54,309.96,341.66,335.74,318.41,258.35,257.78,253.71,256.85,272.19
+E09000013,Hammersmith and Fulham,London borough,London,210.22,198.5,215.32,206.99,200.04,157.86,157.28,156.25,158.67,168.64
+E09000019,Islington,London borough,London,278.49,262.42,293.58,285.03,274.24,224.36,225.12,223.61,224.99,239.78
+E09000020,Kensington and Chelsea,London borough,London,205.97,194.96,211.1,205.52,202.36,158.4,156.39,158.84,160.63,169.28
+E09000022,Lambeth,London borough,London,358.42,337.31,364.01,352.37,342.44,286.05,287.02,293,293.01,311.65
+E09000023,Lewisham,London borough,London,314.1,295.49,311.92,304.98,294.3,244.47,249.55,254.25,259.3,276.95
+E09000028,Southwark,London borough,London,365.25,343.52,364.16,353.47,337.72,282.5,285.09,291.98,296.96,318.51
+E09000030,Tower Hamlets,London borough,London,342.93,316.53,358.94,351.11,338,277.96,279.82,282.34,284.94,307.77
+E09000032,Wandsworth,London borough,London,230.84,216.63,241.03,233.32,230.57,179.47,184.16,185.82,189.75,201.33
+E09000033,Westminster,London borough,London,269.91,253.2,284.1,273,263.24,204.19,203.44,203.85,205.75,216.42
+E08000016,Barnsley,Metropolitan district,Yorkshire and The Humber,215.49,205.08,216.8,212.49,211.89,172.14,177.39,179.55,184.65,197.57
+E08000025,Birmingham,Metropolitan district,West Midlands,1159.87,1095.76,1154.44,1111.3,1064.81,868.93,880.25,888.93,904.19,961.86
+E08000001,Bolton,Metropolitan district,North West,259.85,246.73,259.36,255.61,251.09,204.28,210.47,213.26,214.97,229.33
+E08000032,Bradford,Metropolitan district,Yorkshire and The Humber,491.63,465.04,486.89,475.83,468.17,384.63,389.15,398.51,402.31,427.91
+E08000002,Bury,Metropolitan district,North West,161.45,153.68,157.53,155.89,155.33,128.7,130.86,133.76,135.62,143.84
+E08000033,Calderdale,Metropolitan district,Yorkshire and The Humber,180.76,171.67,178.31,176.31,176.71,145.74,147.32,150.8,153.21,163.05
+E08000026,Coventry,Metropolitan district,West Midlands,302.63,287.26,301.49,292.97,289.87,243.1,247.22,251.38,257.44,275.79
+E08000017,Doncaster,Metropolitan district,Yorkshire and The Humber,276.48,259.57,272.56,265.52,266.53,215.86,221.45,225.52,232.38,248.23
+E08000027,Dudley,Metropolitan district,West Midlands,269.61,258.06,271.76,265.45,264.32,217.55,221.97,226.33,231.02,246.21
+E08000037,Gateshead,Metropolitan district,North East,217.08,206.82,217.4,210.75,210.14,172.01,174.7,177.42,179.6,190.27
+E08000034,Kirklees,Metropolitan district,Yorkshire and The Humber,349.06,332.56,348.82,343.35,342.09,283,288.99,296.88,300.36,320.2
+E08000011,Knowsley,Metropolitan district,North West,198.22,183.02,195.41,187.58,179.97,144.92,147.94,151.02,153.25,163.61
+E08000035,Leeds,Metropolitan district,Yorkshire and The Humber,645.35,612.61,635.91,631.69,631.99,522.9,532.45,542.52,553.87,588.91
+E08000012,Liverpool,Metropolitan district,North West,579.95,530.46,561.51,540.19,522.33,430.29,440.18,448.65,455.32,487.32
+E08000003,Manchester,Metropolitan district,North West,568.35,522.24,554.76,538.25,525.61,421.93,429.01,432.43,441.28,472.22
+E08000021,Newcastle upon Tyne,Metropolitan district,North East,311.39,295.54,311.58,300.49,291.83,239.11,244.14,249.23,252.79,269.06
+E08000022,North Tyneside,Metropolitan district,North East,197.55,187.87,193.81,188.65,190.59,158.11,161.87,165.11,168.65,180.53
+E08000004,Oldham,Metropolitan district,North West,233.69,222.45,229.34,223.61,219.5,182.19,184.04,185.62,188.36,199.99
+E08000005,Rochdale,Metropolitan district,North West,223.58,210.58,218.02,214.75,209.54,172.28,175.77,177.68,182.28,194.39
+E08000018,Rotherham,Metropolitan district,Yorkshire and The Humber,242.91,230.6,239.45,235.36,232.85,194.33,198.83,202.73,205.55,218.75
+E08000006,Salford,Metropolitan district,North West,255.39,242.01,262.21,257,251.57,210.36,212.41,216.42,224.15,243.3
+E08000028,Sandwell,Metropolitan district,West Midlands,329.61,313.41,331.15,320.72,310.71,254.17,259.74,263.66,269.39,286.71
+E08000014,Sefton,Metropolitan district,North West,269.49,255.81,268.74,260.45,260.15,213.72,218.52,224.67,228.5,244.26
+E08000019,Sheffield,Metropolitan district,Yorkshire and The Humber,535.21,508.19,525.92,509.76,498.73,414.56,420.83,431.09,439.33,467.86
+E08000029,Solihull,Metropolitan district,West Midlands,167.59,160.54,164.98,163.01,167.86,141.06,144.15,146.2,148.3,157.69
+E08000023,South Tyneside,Metropolitan district,North East,172.09,160.58,170.28,164.75,162.03,131.28,134.4,136.57,138.68,147.37
+E08000013,St Helens,Metropolitan district,North West,175.26,164.41,173.76,168.31,167.59,136.2,140.11,143.44,145.45,155.37
+E08000007,Stockport,Metropolitan district,North West,247.81,238.43,244.1,242.65,245.95,208.62,213.75,216.94,221.41,235.76
+E08000024,Sunderland,Metropolitan district,North East,290.58,275,293.26,284.35,277.55,224.82,230.61,234.58,238.03,252.89
+E08000008,Tameside,Metropolitan district,North West,208.67,198.54,206.13,203.8,199.68,165.54,170.08,173.21,177.71,190.12
+E08000009,Trafford,Metropolitan district,North West,178.54,170.29,174.34,171.61,174.9,143.59,146.43,149.53,153.12,163
+E08000036,Wakefield,Metropolitan district,Yorkshire and The Humber,284.61,269.97,285.06,282.23,282.46,231.79,238.27,248.17,256.48,275.63
+E08000030,Walsall,Metropolitan district,West Midlands,276.49,262.81,273.69,265.37,260.56,222.3,226.9,230.24,234.01,249.05
+E08000010,Wigan,Metropolitan district,North West,278.62,265.69,281.75,277.77,277.14,218.88,223.04,225.88,226.65,243.87
+E08000015,Wirral,Metropolitan district,North West,323.49,306.36,323.55,315.02,314.08,249.96,255.58,262.27,266.28,283.9
+E08000031,Wolverhampton,Metropolitan district,West Midlands,271.79,258.51,273.7,265.96,259.19,214.41,217.49,220.98,225.32,239.77
+E09000002,Barking and Dagenham,London borough,London,182.34,173.49,186,180.51,174.43,145.63,148.3,151.31,153.6,163.02
+E09000003,Barnet,London borough,London,287.52,276.59,293.17,294.74,301.06,256.94,258.8,260.01,266.19,284.51
+E09000004,Bexley,London borough,London,181.33,174.11,177.82,174.06,178.72,155.15,157.01,158.55,161.54,171.15
+E09000005,Brent,London borough,London,301.15,284.75,303.86,294.65,287.18,247.62,252.68,256.14,260.28,277.06
+E09000006,Bromley,London borough,London,227.56,218.56,226.34,228.94,238.19,202.24,204.03,203.65,211.01,223.68
+E09000008,Croydon,London borough,London,311.57,298.05,316.08,314.75,316.64,271.36,273.84,279.14,287.92,308.71
+E09000009,Ealing,London borough,London,303.05,287.36,306.97,300.84,299.09,245.67,243.71,247.42,251.98,271.1
+E09000010,Enfield,London borough,London,281.64,270.29,280.58,273.41,267.74,228.44,229.75,232.13,235.15,248.7
+E09000014,Haringey,London borough,London,283.44,268.15,283.23,272.05,265.2,221.19,222.38,221.38,220.95,233.93
+E09000015,Harrow,London borough,London,192.59,185.37,193.76,192.25,193.9,169.99,172.53,173.91,180.64,192.1
+E09000016,Havering,London borough,London,186.23,179.96,185.72,187.11,192.73,169.73,172.59,170.81,172.6,182.19
+E09000017,Hillingdon,London borough,London,220.02,210.19,225.43,224.71,227.19,189.56,185.3,180.84,181.82,194.76
+E09000018,Hounslow,London borough,London,209.77,199.06,211.03,208.46,208.11,171.57,172.71,174.17,180.31,190.99
+E09000021,Kingston upon Thames,London borough,London,136.91,131.93,139.85,141.55,145.8,123.42,123.63,119.87,124.56,132.42
+E09000024,Merton,London borough,London,169.27,161.55,167.2,165.9,166.95,140.2,139.82,139.57,142.23,150.77
+E09000025,Newham,London borough,London,335.79,308.84,332.3,322.07,312.54,253.16,252.18,254.84,258.91,280.58
+E09000026,Redbridge,London borough,London,221.21,212.37,219.62,216,215.05,182.14,185.37,189.26,195.61,210.05
+E09000027,Richmond upon Thames,London borough,London,166.68,162.46,169.82,170.88,177.45,153.46,152.22,151.32,157.54,166.04
+E09000029,Sutton,London borough,London,170.96,164.59,168.73,166.65,169.95,149.39,148.52,149.57,151.44,160.14
+E09000031,Waltham Forest,London borough,London,242.93,230.55,242.67,237.12,234.05,201.88,204.88,206.42,209.21,221.98
+E10000002,Buckinghamshire,County council,South East,337.18,330.4,339.04,339.38,361.21,318.56,324.67,333.44,348.24,..
+E10000003,Cambridgeshire,County council,East,389.59,378.11,398.32,399.91,418.97,356.01,357.65,365.54,386.1,412.81
+E10000006,Cumbria,County council,North West,409.95,400.62,404.68,399.43,406.6,352.46,360.84,369.29,378.75,404.44
+E10000007,Derbyshire,County council,East Midlands,540.11,525.66,545.14,534.81,551.33,453.47,468.62,483.46,498.28,534.99
+E10000008,Devon,County council,South West,558.23,544.9,556.56,552.74,576.19,504.36,520.8,536.89,551.99,590.85
+E10000009,Dorset,County council,South West,289.93,285.74,293.85,294.46,310.65,268.17,276.45,287.88,..,..
+E10000011,East Sussex,County council,South East,403.89,395.37,413.04,410.87,425.73,363.01,374.11,386.14,393.87,421.89
+E10000012,Essex,County council,East,977.99,957.87,982.62,974.58,1012.47,866.94,882.21,901.84,928.93,994.7
+E10000013,Gloucestershire,County council,South West,422.99,411.44,423.17,419.89,434.97,373.08,382.32,393,409.58,439.37
+E10000014,Hampshire,County council,South East,814.72,796.05,814.96,818.97,862.87,742.3,762.27,781.89,801.37,856.39
+E10000015,Hertfordshire,County council,East,793.92,773.43,787.66,789.31,822.61,718.76,736.49,754.23,768.86,819.6
+E10000016,Kent,County council,South East,1000.82,977.29,1004.9,995.13,1035.51,884.04,911.18,938.96,975.86,1048.02
+E10000017,Lancashire,County council,North West,863.75,837.46,867.33,842.15,864.46,711.36,735.43,763.08,785.65,843.26
+E10000018,Leicestershire,County council,East Midlands,386.55,377.33,387.72,388.27,406.46,349.56,360.58,374.89,389.53,418.42
+E10000019,Lincolnshire,County council,East Midlands,505.77,490.95,511.87,504.42,514.1,433.45,445.54,460.4,478.19,512.92
+E10000020,Norfolk,County council,East,684.3,669.5,692.6,680.27,691.9,594.38,613.33,635.24,651.17,697.98
+E10000023,North Yorkshire,County council,Yorkshire and The Humber,407.67,397.17,404.73,402.26,421.43,370.82,378.57,388.02,405.69,433.46
+E10000021,Northamptonshire,County council,East Midlands,458.76,446.43,460.26,455.76,473.2,402.34,416.66,432.8,428.59,461.54
+E10000024,Nottinghamshire,County council,East Midlands,560.96,544.96,563.29,556.46,572.79,480.54,496.86,510.09,524.66,562.31
+E10000025,Oxfordshire,County council,South East,457.09,444.71,458.24,459.64,479.13,420.77,432.13,443.31,460.12,492.2
+E10000027,Somerset,County council,South West,359.93,351.09,359.65,355.34,369.17,317.21,329.23,341.34,353.17,379.59
+E10000028,Staffordshire,County council,West Midlands,532.65,519.83,536.44,531.04,549.48,458.54,475.7,492.45,504.89,541.71
+E10000029,Suffolk,County council,East,524.75,510.7,525.59,517.99,530.97,448.18,456.71,468.55,481.79,515.98
+E10000030,Surrey,County council,South East,823.53,808.83,837.13,847.53,897.59,809.97,822.68,837.36,865.75,919.29
+E10000031,Warwickshire,County council,West Midlands,378.74,371.23,383.6,380.09,396.21,344.26,353.69,365,383.62,412.47
+E10000032,West Sussex,County council,South East,560.25,549.46,565.81,569.04,600.08,520.46,533.63,545.99,570.05,610.09
+E10000034,Worcestershire,County council,West Midlands,367.18,358.8,373.57,369.13,387.41,326.31,334.67,343.34,354.09,380.17
+E06000053,Isles of Scilly,County council,South West,4.61,4.62,4.83,5.09,5.18,4.83,4.95,5.06,5.13,5.38
+E07000223,Adur,District council,South East,10.23,9.42,9.75,9.88,9.36,8.94,8.42,8.03,8.27,8.48
+E07000026,Allerdale,District council,North West,13.66,11.97,12.32,12.61,11.79,11.66,11.32,10.68,10.38,10.47
+E07000032,Amber Valley,District council,East Midlands,14.57,12.76,13.34,13.5,12.83,12.05,11.56,11.32,11.35,11.82
+E07000224,Arun,District council,South East,18.97,16.87,18.52,19.32,18.81,18.79,18.18,17.19,17.52,17.77
+E07000170,Ashfield,District council,East Midlands,15.95,13.77,14.92,15.27,14.83,14.17,13.29,12.75,11.97,11.91
+E07000105,Ashford,District council,South East,14.02,12.15,14.53,15.07,14.59,14.4,13.72,12.82,13.52,14.1
+E07000004,Aylesbury Vale,District council,South East,20.52,18.06,20.96,22.11,22.98,24.1,23.46,21.88,22.12,..
+E07000200,Babergh,District council,East,10.06,8.86,9.77,10.09,9.88,9.78,8.95,8.61,8.55,9.21
+E07000027,Barrow-in-Furness,District council,North West,14.82,12.86,12.02,11.82,11.15,10.11,9.49,9.27,9.03,9.32
+E07000066,Basildon,District council,East,30.18,27.18,27.96,28.73,27.83,26.93,25.79,23.94,24.38,24.29
+E07000084,Basingstoke and Deane,District council,South East,14.58,12.98,16.49,17.25,16.91,16.26,13.57,12.65,13.22,14.7
+E07000171,Bassetlaw,District council,East Midlands,15.97,13.92,14.54,14.55,13.7,13.03,12.27,11.75,11.3,11.96
+E07000129,Blaby,District council,East Midlands,10.05,8.96,9.53,9.72,9.49,9.78,9.9,9.99,10.58,10.75
+E07000033,Bolsover,District council,East Midlands,12.94,11.18,10.62,10.69,10.11,9.82,9.38,9.11,8.83,9.26
+E07000136,Boston,District council,East Midlands,9.97,8.66,9.39,9.51,8.89,8.33,7.73,7.47,8.19,8.57
+E07000067,Braintree,District council,East,17.77,15.62,16.97,17.27,16.38,16.04,15.03,14.07,14.25,14.39
+E07000143,Breckland,District council,East,13.57,11.47,12.03,12.44,11.91,12.29,11.69,11.49,11.33,11.54
+E07000068,Brentwood,District council,East,10.16,9.18,9.63,10.17,9.81,9.45,8.75,8.01,8.56,8.87
+E07000144,Broadland,District council,East,12.46,11.07,11.66,11.89,11.35,11.11,10.93,10.9,10.82,11.35
+E07000234,Bromsgrove,District council,West Midlands,11.58,10.62,11.07,11.39,11.34,11.28,11.27,11.27,11.55,12.07
+E07000095,Broxbourne,District council,East,10.36,9.03,9.8,10.21,9.56,8.95,8.18,7.57,7.61,7.89
+E07000172,Broxtowe,District council,East Midlands,13.33,11.79,12.09,12.05,11.27,10.27,9.41,8.92,8.57,8.82
+E07000117,Burnley,District council,North West,21.07,18.22,16.82,17.05,16.02,14.76,14.19,13.72,13.52,14
+E07000008,Cambridge,District council,East,17.78,15.87,17.75,18.78,19.41,19.69,18.97,18.61,18.47,18.4
+E07000192,Cannock Chase,District council,West Midlands,13.59,11.98,12.47,12.78,12.01,11.21,10.4,10.46,10.8,11.17
+E07000106,Canterbury,District council,South East,21.34,19.02,20.05,20.77,20.05,19,17.63,16.24,17.14,17.56
+E07000028,Carlisle,District council,North West,14.72,13.28,14.31,14.5,13.84,13.4,12.87,12.43,12.32,12.63
+E07000069,Castle Point,District council,East,12.87,11.65,11.95,12.17,11.77,11.38,10.82,10.55,10.81,10.78
+E07000130,Charnwood,District council,East Midlands,17.69,15.62,17.6,18.04,17.67,17.48,16.65,16.29,16.36,17.31
+E07000070,Chelmsford,District council,East,19.31,17.6,18.47,19.01,18.27,18.18,18.17,18.89,20.21,21.46
+E07000078,Cheltenham,District council,South West,15.09,13.69,14.18,14.56,14.35,13.9,13.18,13.13,13.27,13.5
+E07000177,Cherwell,District council,South East,16.04,14.09,15.17,15.63,15.18,15.47,15.58,14.91,16,17.32
+E07000034,Chesterfield,District council,East Midlands,14.42,12.23,11.55,11.69,10.98,10.11,9.54,9.24,8.96,9.03
+E07000225,Chichester,District council,South East,12.86,11.51,12.71,13.83,13.82,14.34,13.48,12.95,13.23,13.08
+E07000005,Chiltern,District council,South East,11.01,10.07,10.26,10.69,10.47,10.41,10.36,10.11,10.55,..
+E07000118,Chorley,District council,North West,13.97,12.44,13.97,14.82,14.7,14.83,14.03,13.01,12.91,12.85
+E07000048,Christchurch,District council,South West,6.07,5.58,5.82,6.15,6.04,5.84,5.49,5.37,..,..
+E07000071,Colchester,District council,East,21.51,19.46,21.68,22.54,22.89,22.41,20.92,19.45,19.88,20.68
+E07000029,Copeland,District council,North West,11,9.49,9.19,9.38,8.76,8.16,7.79,7.29,7.02,7.19
+E07000150,Corby,District council,East Midlands,8.59,7.45,9.15,9.76,9.64,9.36,8.52,7.83,7.74,8.3
+E07000079,Cotswold,District council,South West,10.39,9.25,10.49,11,10.96,11.35,10.79,10.85,11.14,11.47
+E07000163,Craven,District council,Yorkshire and The Humber,7.11,6.42,6.94,7.11,6.72,6.9,6.41,6.15,6.19,6.43
+E07000226,Crawley,District council,South East,15.67,14.07,15.1,15.37,14.5,13.36,12.51,12.49,12.42,13.18
+E07000096,Dacorum,District council,East,17.79,15.97,17.2,18.24,17.83,17.61,16.91,16.17,16.78,16.88
+E07000107,Dartford,District council,South East,12.37,11.14,12.32,12.9,12.91,12.97,12.89,13.45,14.24,15.19
+E07000151,Daventry,District council,East Midlands,9.56,8.51,8.8,8.78,8.69,8.98,9.27,9.84,10.49,11.48
+E07000035,Derbyshire Dales,District council,East Midlands,9.86,9,9.42,9.58,9.32,9.24,8.68,8.41,8.67,9.02
+E07000108,Dover,District council,South East,15.75,13.8,14.5,14.84,14.01,13.36,13.01,12.65,12.77,13.21
+E07000009,East Cambridgeshire,District council,East,10.2,9.06,10.25,10.48,10.04,9.7,8.58,7.81,7.48,7.86
+E07000040,East Devon,District council,South West,13.96,12.43,13.31,14.09,14.58,15.5,15.47,15.17,15.24,15.5
+E07000049,East Dorset,District council,South West,10.69,9.95,10.23,10.69,10.56,10.48,10.14,10.14,..,..
+E07000085,East Hampshire,District council,South East,11.35,10.21,11.55,12.32,12.59,12.48,11.32,10.77,11.16,12.3
+E07000242,East Hertfordshire,District council,East,16.28,14.78,15.88,16.71,16.55,16.33,15.95,15.1,15.65,16.43
+E07000137,East Lindsey,District council,East Midlands,20.88,17.96,18.77,18.87,17.66,17.38,16.16,15.79,15.39,15.79
+E07000152,East Northamptonshire,District council,East Midlands,9.74,8.57,9.8,9.97,9.67,9.94,9.4,9.49,9.34,9.51
+E07000193,East Staffordshire,District council,West Midlands,15.05,13.31,14.11,14.53,13.86,13,12.41,11.77,11.95,12.98
+E07000061,Eastbourne,District council,South East,17.22,15.39,15.77,16.17,15.14,14.03,13.19,12.61,12.47,13.03
+E07000086,Eastleigh,District council,South East,12.62,11.3,12.47,12.85,12.34,11.94,10.77,10.28,10.71,12.69
+E07000030,Eden,District council,North West,7.78,7.05,7.45,7.67,7.33,7.7,7.31,6.95,6.96,7.25
+E07000207,Elmbridge,District council,South East,18.68,17.24,18.74,19.65,19.5,19.01,17.67,17.18,17.65,18.09
+E07000072,Epping Forest,District council,East,16.55,14.86,15.74,16.22,15.55,15.14,13.82,12.55,12.69,13.19
+E07000208,Epsom and Ewell,District council,South East,8.98,8.28,9.17,9.99,10.07,9.78,9.03,8.52,8.41,8.62
+E07000036,Erewash,District council,East Midlands,14.33,12.58,13.25,13.36,12.63,11.81,11.15,10.57,10.13,10.26
+E07000041,Exeter,District council,South West,15.5,13.6,15.51,15.98,15.57,15.06,14.09,13.01,12.81,13.17
+E07000087,Fareham,District council,South East,11.32,10.19,11.11,11.37,11.06,10.86,10.13,9.47,9.66,9.85
+E07000010,Fenland,District council,East,16.68,14.65,15.37,15.52,14.81,14.18,13.35,13.06,12.71,12.91
+E07000201,Forest Heath,District council,East,7.43,6.49,8.12,8.51,8.14,7.9,6.36,5.8,..,..
+E07000080,Forest of Dean,District council,South West,11.34,10.02,10.58,10.76,10.42,10.44,9.96,9.53,9.22,9.11
+E07000119,Fylde,District council,North West,10.59,9.53,10.22,10.58,10.54,10.06,9.64,9.3,9.59,10.3
+E07000173,Gedling,District council,East Midlands,13.55,11.89,13.01,13.45,13.01,12.21,11.1,10.24,9.64,9.86
+E07000081,Gloucester,District council,South West,16.16,14.33,16.39,17,16.43,15.86,14.3,13.31,12.72,12.9
+E07000088,Gosport,District council,South East,11.69,10.57,10.98,11.21,10.58,9.91,9.41,8.93,8.9,8.99
+E07000109,Gravesham,District council,South East,13.35,11.79,12.72,13.21,12.81,11.89,11.23,10.41,10.52,10.86
+E07000145,Great Yarmouth,District council,East,18.22,15.58,14.84,14.83,13.92,12.6,11.86,11.34,10.97,11.29
+E07000209,Guildford,District council,South East,16.15,14.52,15.38,15.7,15.09,14.99,14.44,13.61,13.77,14.03
+E07000164,Hambleton,District council,Yorkshire and The Humber,8.56,7.53,8.3,8.54,8.22,8.73,8.19,8.36,8.47,8.8
+E07000131,Harborough,District council,East Midlands,10.24,9.27,10.19,10.73,10.77,10.88,10.38,10.17,10.31,10.86
+E07000073,Harlow,District council,East,14.84,13.15,13.39,13.47,13.13,11.94,11.3,11.04,11.33,11.9
+E07000165,Harrogate,District council,Yorkshire and The Humber,23.36,21.38,21.77,22.03,21.41,20.58,19.64,19.56,20.34,21.41
+E07000089,Hart,District council,South East,9.35,8.7,9.3,9.87,9.87,10.07,10.16,10.25,10.68,11.14
+E07000062,Hastings,District council,South East,19.17,16.28,15.41,15.9,14.88,13.84,12.96,12.55,12.29,12.29
+E07000090,Havant,District council,South East,16.91,14.99,15.08,15.34,14.71,14.11,13.71,13.45,13.31,13.01
+E07000098,Hertsmere,District council,East,13.87,12.24,12.83,13.17,13,12.59,11.96,11.27,11.24,11.79
+E07000037,High Peak,District council,East Midlands,11.78,10.48,10.48,10.62,10.13,9.4,9.02,8.74,8.83,9.2
+E07000132,Hinckley and Bosworth,District council,East Midlands,10.89,9.59,10.46,10.68,10.44,10.85,10.58,10.41,10.09,9.83
+E07000227,Horsham,District council,South East,13.61,12.34,13.22,14.05,14.6,15.53,15.72,16,16.5,17.11
+E07000011,Huntingdonshire,District council,East,19.06,16.83,19.82,20.43,20,19.29,17.38,16.28,15.52,16.24
+E07000120,Hyndburn,District council,North West,17.15,14.8,13.61,13.54,12.75,11.58,11.21,10.83,10.55,10.78
+E07000202,Ipswich,District council,East,22.18,20.41,21.61,21.98,21.34,20.46,19.25,18.82,19.18,19.28
+E07000153,Kettering,District council,East Midlands,12.7,11.37,12.48,12.93,12.8,12.43,11.7,11.43,11.49,11.9
+E07000146,King's Lynn and West Norfolk,District council,East,20.08,17.47,18.99,19.42,18.37,17.62,16.19,15.06,14.82,15.24
+E07000121,Lancaster,District council,North West,22.84,20.26,20.52,20.15,19.05,18.2,17.53,17.31,17.1,17.45
+E07000063,Lewes,District council,South East,12.58,11.42,12.15,12.57,12.08,11.58,10.93,10.3,10.25,10.57
+E07000194,Lichfield,District council,West Midlands,10.89,9.73,10.38,10.93,10.64,10.53,9.81,9.37,10.08,10.9
+E07000138,Lincoln,District council,East Midlands,15.61,13.78,14.81,15.3,14.43,13.44,12.4,11.68,11.3,11.7
+E07000110,Maidstone,District council,South East,21.17,19.45,22.36,23.5,23.34,23.3,21.87,21.83,23.35,24.7
+E07000074,Maldon,District council,East,8.18,7.37,7.54,7.73,7.38,7.13,6.96,6.9,7.26,7.57
+E07000235,Malvern Hills,District council,West Midlands,8.79,7.79,8.64,9.32,8.86,8.9,8.17,8.01,8.26,9
+E07000174,Mansfield,District council,East Midlands,15.33,13.38,13.69,13.82,13.12,12.08,11.49,10.69,10.05,10.39
+E07000133,Melton,District council,East Midlands,6.76,6.08,6.65,6.86,6.48,6.39,5.7,5.41,5.64,5.78
+E07000187,Mendip,District council,South West,13.35,11.78,13.13,13.58,13.31,13.47,12.51,11.68,11.79,11.96
+E07000042,Mid Devon,District council,South West,10.61,9.47,10.16,10.83,10.66,10.55,10.08,9.55,9.79,10.23
+E07000203,Mid Suffolk,District council,East,11.02,9.91,11.11,11.6,11.57,11.78,10.74,10.09,10.24,10.8
+E07000228,Mid Sussex,District council,South East,14.28,12.94,14.27,15.49,15.74,16.26,15.9,15.4,15.67,16.01
+E07000210,Mole Valley,District council,South East,9.68,8.87,9.48,9.9,9.67,9.44,9.06,8.71,9.19,9.4
+E07000091,New Forest,District council,South East,21.63,19.49,19.97,20.48,19.7,18.82,17.57,16.61,16.91,17.21
+E07000175,Newark and Sherwood,District council,East Midlands,15.82,14.02,14.63,14.88,14.12,13.64,12.8,12.26,12.17,12.7
+E07000195,Newcastle-under-Lyme,District council,West Midlands,16.27,14.42,15.19,15.4,14.82,13.96,13.01,12.54,12.07,12.12
+E07000043,North Devon,District council,South West,13.32,11.71,12.1,12.14,11.62,11.28,10.73,10.96,11.03,11.78
+E07000050,North Dorset,District council,South West,7.01,6.2,7.19,7.51,7.49,7.57,6.81,6.25,..,..
+E07000038,North East Derbyshire,District council,East Midlands,12.4,11.02,11.24,11.19,10.51,10.44,9.98,9.73,9.64,9.84
+E07000099,North Hertfordshire,District council,East,16.96,15.23,16.51,17.44,17.15,16.39,15.27,14.92,15.15,15.32
+E07000139,North Kesteven,District council,East Midlands,12.82,11.42,12.86,13.28,12.7,13.09,11.93,11.48,11.63,11.96
+E07000147,North Norfolk,District council,East,13.81,12.21,12.76,13.14,12.6,12.41,11.46,11.07,11.1,11.2
+E07000218,North Warwickshire,District council,West Midlands,9.35,8.35,8.51,8.52,8.15,7.82,7.47,7.25,7.19,7.22
+E07000134,North West Leicestershire,District council,East Midlands,11.93,10.58,11.17,11.55,11.66,11.39,11.12,11.18,11.33,12.09
+E07000154,Northampton,District council,East Midlands,30.6,27.51,29.16,29.81,29.28,27.91,26.51,25.35,24.99,25.72
+E07000148,Norwich,District council,East,24.3,20.88,22.24,22.5,21.16,19.46,17.74,16.81,16.57,17.1
+E07000219,Nuneaton and Bedworth,District council,West Midlands,16.93,15.13,15.92,16.21,15.47,14.75,14.16,13.64,13.93,14.6
+E07000135,Oadby and Wigston,District council,East Midlands,7.69,6.94,6.88,6.84,6.48,6.12,5.88,5.76,5.74,5.79
+E07000178,Oxford,District council,South East,28.06,25.35,26.38,26.42,25.11,24.04,22.39,21.4,21.26,21.56
+E07000122,Pendle,District council,North West,19.22,16.61,15.5,15.55,14.66,13.57,12.91,12.3,12.06,12.45
+E07000123,Preston,District council,North West,26.04,22.6,21.71,22.06,20.74,19.27,18.68,18.7,19.43,20.7
+E07000051,Purbeck,District council,South West,6.06,5.49,5.66,5.84,5.55,5.47,5.22,5.09,..,..
+E07000236,Redditch,District council,West Midlands,11.36,10.06,10.3,10.59,10.25,9.71,9.32,8.98,9.24,9.67
+E07000211,Reigate and Banstead,District council,South East,17.62,16.29,17.65,18.81,19.22,18.86,18.16,18.14,18.12,18.43
+E07000124,Ribble Valley,District council,North West,6.75,6.1,6.32,6.43,6.44,6.59,6.55,6.58,6.65,6.96
+E07000166,Richmondshire,District council,Yorkshire and The Humber,7.45,6.73,7.26,7.34,7.17,7.11,6.82,6.53,6.54,6.8
+E07000075,Rochford,District council,East,10.62,9.77,10,10.16,10.29,10.17,9.67,9.61,9.69,9.82
+E07000125,Rossendale,District council,North West,11.23,9.76,9.79,9.9,9.47,9.03,8.61,8.35,8.24,8.29
+E07000064,Rother,District council,South East,13.12,11.72,12.26,12.59,12.17,11.83,10.97,10.48,10.43,10.6
+E07000220,Rugby,District council,West Midlands,12.19,10.82,12.09,12.63,12.62,12.66,11.86,11.32,11.7,12.36
+E07000212,Runnymede,District council,South East,9.69,8.62,9.47,9.74,9.33,9.48,8.55,7.97,8.53,9.31
+E07000176,Rushcliffe,District council,East Midlands,11.62,10.46,11.19,11.74,11.44,11.11,10.68,10.19,10.69,11.79
+E07000092,Rushmoor,District council,South East,12.09,10.78,11.59,12.06,11.78,11.02,10.15,9.77,9.84,10.3
+E07000167,Ryedale,District council,Yorkshire and The Humber,7.85,7.05,7.71,8.13,8.05,8.4,7.84,7.47,7.42,7.61
+E07000168,Scarborough,District council,Yorkshire and The Humber,19.21,17.08,17.42,17.56,16.48,15.42,14.76,14.28,14.05,14.27
+E07000188,Sedgemoor,District council,South West,14.09,12.32,14.62,15.3,14.92,14.89,13.6,12.35,12.06,12.27
+E07000169,Selby,District council,Yorkshire and The Humber,10.65,9.62,10.89,11.28,10.93,10.98,10.22,9.76,10.18,11.09
+E07000111,Sevenoaks,District council,South East,15.04,13.68,14.38,14.98,14.92,14.8,14.08,14.01,14.48,14.96
+E07000112,Shepway,District council,South East,18.47,16.53,17.47,17.52,16.82,16.23,15.41,15.24,15.62,16.05
+E07000006,South Bucks,District council,South East,7.59,6.92,7.51,7.98,7.93,7.76,7.26,6.81,6.96,..
+E07000012,South Cambridgeshire,District council,East,13.67,12.29,14.89,15.65,16,16.71,15.09,14.36,14.39,15.17
+E07000039,South Derbyshire,District council,East Midlands,11.31,10.07,11.27,11.55,11.36,11.15,10.63,10.69,11.25,12.58
+E07000044,South Hams,District council,South West,10.08,8.97,9.98,10.62,10.51,10.65,9.72,9.49,9.91,10.19
+E07000140,South Holland,District council,East Midlands,12.85,11.38,12.17,12.09,11.4,11.11,10.39,10,9.93,10.33
+E07000141,South Kesteven,District council,East Midlands,15.69,13.86,15.76,16.55,16.04,15.96,14.7,13.63,13.45,13.74
+E07000031,South Lakeland,District council,North West,14.04,12.8,12.72,12.99,12.71,12.55,12.31,12.15,12.14,12.36
+E07000149,South Norfolk,District council,East,13.98,12.38,14.86,15.62,15.88,16.24,15.11,14.69,14.78,15.87
+E07000155,South Northamptonshire,District council,East Midlands,10.81,9.8,10.7,10.88,10.86,11.25,11.05,11.01,11.76,12.57
+E07000179,South Oxfordshire,District council,South East,13.66,12.28,12.99,13.53,13.59,13.37,12.83,11.81,11.51,12.75
+E07000126,South Ribble,District council,North West,13.84,12.44,12.76,12.73,12.5,12.28,11.68,11.33,11.23,11.19
+E07000189,South Somerset,District council,South West,18.22,16.16,18.32,19.61,19.11,18.9,17.71,15.8,15.97,16.09
+E07000196,South Staffordshire,District council,West Midlands,9.74,8.52,9.19,9.49,9.11,8.79,8.16,7.62,7.38,7.5
+E07000213,Spelthorne,District council,South East,11.86,10.78,11.63,11.93,11.74,11.55,10.95,10.61,10.75,10.88
+E07000240,St Albans,District council,East,17.1,15.65,16.79,17.75,17.8,17.28,15.84,14.47,14.63,14.78
+E07000204,St Edmundsbury,District council,East,12.79,11.45,12.24,12.37,11.91,11.82,11.24,10.69,..,..
+E07000197,Stafford,District council,West Midlands,14.2,12.73,13.32,13.91,13.25,13.11,12.97,12.81,13.58,14.01
+E07000198,Staffordshire Moorlands,District council,West Midlands,12.01,10.73,10.85,10.96,10.46,9.91,9.21,8.87,8.55,8.58
+E07000243,Stevenage,District council,East,11.64,10.39,11.13,11.37,10.87,10.18,9.69,9.51,9.23,9.47
+E07000221,Stratford-on-Avon,District council,West Midlands,13.02,11.63,12.47,13.03,13.08,13.57,13.58,14.11,15.06,16.49
+E07000082,Stroud,District council,South West,14.45,12.97,13.82,14.36,14.41,14.7,13.87,13.38,13.42,13.47
+E07000205,Suffolk Coastal,District council,East,14.65,13.21,13.72,14.18,13.62,13.69,13.33,13.11,..,..
+E07000214,Surrey Heath,District council,South East,11.36,10.45,10.87,11.34,11.35,10.97,10.67,10.56,10.62,11.32
+E07000113,Swale,District council,South East,18.6,16.25,17.75,18.16,17.43,16.58,15.52,14.89,14.6,14.92
+E07000199,Tamworth,District council,West Midlands,9.48,8.33,8.56,8.62,8.11,7.42,6.89,6.63,6.75,7.28
+E07000215,Tandridge,District council,South East,11.15,10.28,11.06,11.53,11.52,11.21,10.88,10.43,10.72,11.05
+E07000190,Taunton Deane,District council,South West,12.55,11.1,12.72,13.36,13.53,13.37,13.44,13,..,..
+E07000045,Teignbridge,District council,South West,16.05,14.18,15.25,15.88,15.94,15.94,15.2,14.71,14.49,14.6
+E07000076,Tendring,District council,East,20.38,17.59,18.24,18.43,17.37,16.26,15.43,14.98,14.7,15.54
+E07000093,Test Valley,District council,South East,12.42,10.99,12.36,13.67,13.86,14.48,14.4,13.33,13.48,13.7
+E07000083,Tewkesbury,District council,South West,7.99,7,8.14,8.76,9.07,9.34,9.05,9.16,9.31,10.14
+E07000114,Thanet,District council,South East,23.54,19.84,20.41,21.08,20.23,18.83,17.38,16.51,16.04,16.13
+E07000102,Three Rivers,District council,East,11.42,10.21,10.57,10.8,10.79,10.7,10.15,9.54,9.54,9.79
+E07000115,Tonbridge and Malling,District council,South East,14.25,12.9,14.6,15.46,15.73,15.94,15.44,15.75,16.44,16.89
+E07000046,Torridge,District council,South West,9.32,8.21,9.23,9.41,9.03,9.25,8.71,8.36,8.1,8.08
+E07000116,Tunbridge Wells,District council,South East,12.51,11.23,12.4,12.57,12.16,12.01,11.38,11.25,11.72,12.15
+E07000077,Uttlesford,District council,East,8.61,7.83,9.97,10.87,11.19,11.57,10.81,10,10.48,11.53
+E07000180,Vale of White Horse,District council,South East,12.08,10.67,11.79,12.49,12.51,12.89,12.98,13,14.04,14.98
+E07000222,Warwick,District council,West Midlands,16.64,14.99,15.71,15.67,15.15,14.97,14.31,14.82,16.13,17.08
+E07000103,Watford,District council,East,15.25,13.7,15.68,16.45,16.31,15.38,13.62,12.42,12.41,12.86
+E07000206,Waveney,District council,East,16.31,14.18,14.65,14.88,13.95,12.88,11.97,11.32,..,..
+E07000216,Waverley,District council,South East,14.16,12.92,13.67,14.14,13.96,13.96,13.24,12.8,13.17,13.27
+E07000065,Wealden,District council,South East,18.2,16.53,18.79,19.82,20.12,20.58,19.05,17.67,17.62,18.14
+E07000156,Wellingborough,District council,East Midlands,9.57,8.26,8.71,8.83,8.28,8.14,7.77,7.59,7.5,7.67
+E07000241,Welwyn Hatfield,District council,East,15.14,13.99,14.74,15.01,14.57,14.1,13.57,13.04,13.15,13.3
+E07000047,West Devon,District council,South West,7.85,7.05,8.29,8.56,8.36,8.61,7.51,7.25,7.31,7.34
+E07000052,West Dorset,District council,South West,12.83,11.37,12.06,12.52,12.17,12.28,11.56,11.12,..,..
+E07000127,West Lancashire,District council,North West,15.35,13.61,13.89,14.19,13.51,12.74,12.35,11.75,11.51,11.76
+E07000142,West Lindsey,District council,East Midlands,13.09,11.61,12.7,13.15,12.61,12.82,11.73,11.15,10.77,10.88
+E07000181,West Oxfordshire,District council,South East,8.87,7.83,8.92,9.32,8.96,9.02,8.55,8.26,8.48,9.12
+E07000191,West Somerset,District council,South West,4.98,4.29,4.66,4.77,4.53,4.58,4.29,4.18,..,..
+E07000053,Weymouth and Portland,District council,South West,11.41,10.16,10.32,10.82,10.52,9.87,9.29,8.89,..,..
+E07000094,Winchester,District council,South East,12.43,11.41,12.93,13.48,13.6,13.46,12.63,12.01,12.48,13.39
+E07000217,Woking,District council,South East,14.15,12.86,13.46,14.1,13.74,13.59,13.15,13.07,13.29,13.16
+E07000237,Worcester,District council,West Midlands,11.99,10.64,11.53,12.01,11.56,11.25,10.79,10.18,10.11,9.89
+E07000229,Worthing,District council,South East,15.3,13.79,14.28,14.56,13.91,13.63,13,12.75,12.93,13.23
+E07000238,Wychavon,District council,West Midlands,12.22,10.76,11.75,12.35,12.65,13.37,13.36,12.98,13.24,14.05
+E07000007,Wycombe,District council,South East,18.15,16.12,17.94,18.59,18.05,17.49,15.45,14.68,14.71,..
+E07000128,Wyre,District council,North West,15.87,13.97,14.36,14.69,14.28,13.57,13.01,12.53,12.23,12.49
+E07000239,Wyre Forest,District council,West Midlands,14.29,12.58,13.04,13.45,13.18,12.94,11.93,11.17,11.03,10.73
+E06000022,Bath & North East Somerset,Unitary authority,South West,134.64,129.8,133.74,135.23,140.46,120.45,122.64,123.86,127.74,136.64
+E06000055,Bedford,Unitary authority,East,149.02,142.61,148.82,149.9,152.99,134.7,136.01,137.36,139.33,149.47
+E06000008,Blackburn with Darwen,Unitary authority,North West,156.19,145.39,153.65,147.39,144.1,115.9,117.95,120.4,121.54,129.33
+E06000009,Blackpool,Unitary authority,North West,165.51,158.28,174.24,168.49,164.06,126.57,128.42,131.45,133.26,141.82
+E06000028,Bournemouth,Unitary authority,South West,154.59,146.66,152.83,153.36,155.84,132.21,134.26,137.57,..,..
+E06000036,Bracknell Forest,Unitary authority,South East,88.97,85.73,87.96,88.58,91.36,81.57,81.28,81.79,81.72,87.39
+E06000043,Brighton & Hove,Unitary authority,South East,259.84,245.74,256.6,252.09,253.61,213.19,216.54,221.85,223.67,237.31
+E06000023,Bristol,Unitary authority,South West,416.3,398.51,421.72,413.75,412.99,347.22,352.07,357.41,362.61,385.2
+E06000056,Central Bedfordshire,Unitary authority,East,202.56,195.96,205.76,209.46,216.63,194.47,196.42,196.24,198.65,213.69
+E06000049,Cheshire East,Unitary authority,North West,273.51,264.85,280.31,285.43,295.17,257.53,262.27,270.61,279.72,300.63
+E06000050,Cheshire West & Chester,Unitary authority,North West,279.91,268.77,274.76,274.91,282.01,243.19,247.14,253.77,265.44,283.15
+E06000052,Cornwall,Unitary authority,South West,496.79,476.75,494.84,494.85,503,438.71,445.05,457.52,469.18,500.26
+E06000005,Darlington,Unitary authority,North East,92.63,88.52,95.59,94.15,94.86,78.95,80.07,82,83.25,88.23
+E06000015,Derby,Unitary authority,East Midlands,218.76,207.35,216.23,212.43,210.32,173.52,176.67,180.87,183.84,196.09
+E06000047,Durham,Unitary authority,North East,486.27,464.1,503.24,491.36,488.99,391.58,399.87,409.4,420.73,450.81
+E06000011,East Riding of Yorkshire,Unitary authority,Yorkshire and The Humber,269.81,259.28,263.27,260.46,264.13,231,235.47,242.49,246.69,264.36
+E06000006,Halton,Unitary authority,North West,128.37,121.8,126.97,123.77,121.32,99.74,101.97,104.12,105.87,112.72
+E06000001,Hartlepool,Unitary authority,North East,105.79,98.29,104.31,102.15,99.06,81.29,82.41,83.96,85.22,90.67
+E06000019,Herefordshire,Unitary authority,West Midlands,161.54,154.98,162.84,162,164.89,146.64,146.87,149.77,153.4,163.02
+E06000046,Isle of Wight Council,Unitary authority,South East,147.02,140.53,144.44,141.05,143.91,124.67,127.26,130.41,132.15,140.32
+E06000010,Kingston upon Hull,Unitary authority,Yorkshire and The Humber,266.09,249.53,266.99,256.84,248.64,199.24,205.52,209.6,214.11,228.98
+E06000016,Leicester,Unitary authority,East Midlands,322.72,307.18,328.75,319.6,310.47,259.54,262.75,267.14,272.64,289.95
+E06000032,Luton,Unitary authority,East,174.26,166.41,178.22,172.54,170.12,141.56,142.48,145.16,145.68,154.62
+E06000035,Medway,Unitary authority,South East,210.51,201.16,212.05,212.25,215.87,181.48,181.03,183.7,185.47,196.18
+E06000002,Middlesbrough,Unitary authority,North East,154.24,145.95,160.39,155.51,149.81,119.8,121.84,123.3,125.64,133.29
+E06000042,Milton Keynes,Unitary authority,South East,200.41,192.03,202.51,203.01,203.61,179.01,178.92,180.29,183.5,195.79
+E06000012,North East Lincolnshire,Unitary authority,Yorkshire and The Humber,152.32,143.65,149.88,146.98,144.64,119.28,121.25,123.24,124.94,133.47
+E06000013,North Lincolnshire,Unitary authority,Yorkshire and The Humber,142.6,136.14,143.53,139.84,139.5,115.64,118.01,119.77,121.8,130.25
+E06000024,North Somerset,Unitary authority,South West,165.7,159.57,165.02,165.34,171.88,147.67,150.26,152.91,154.98,164.68
+E06000057,Northumberland,Unitary authority,North East,309.58,296.39,305.56,301.01,304.54,261.85,267.11,273.8,281.13,299.12
+E06000018,Nottingham,Unitary authority,East Midlands,320.2,302.74,328.27,316.54,308.8,247.89,251.4,258.47,262.39,280.01
+E06000031,Peterborough,Unitary authority,East,155.57,147.71,162.4,162.1,160.93,137.44,138.55,141.52,143.63,153.17
+E06000026,Plymouth,Unitary authority,South West,230.9,221.46,227.61,226.55,224.42,187.09,191.1,194.07,198.38,211.36
+E06000029,Poole,Unitary authority,South West,111.04,107.68,112.29,112.9,117.7,99.81,101.76,104.66,..,..
+E06000044,Portsmouth,Unitary authority,South East,182.14,173.29,186.08,181.19,179.54,143.95,146.92,148.94,152.46,161.93
+E06000038,Reading,Unitary authority,South East,140.41,133.75,139.98,140.12,141.54,122.88,126.52,129.4,131.45,140.71
+E06000003,Redcar and Cleveland,Unitary authority,North East,139.83,132.91,141.39,138.23,136.49,110.58,111.9,113.33,115.66,122.82
+E06000017,Rutland,Unitary authority,East Midlands,31.78,30.73,31.31,31.57,33.44,30.87,30.93,31.72,33.4,35.34
+E06000051,Shropshire,Unitary authority,West Midlands,246.75,237.16,247.17,245.17,249.91,222.53,224.38,233.49,240.71,257.68
+E06000039,Slough,Unitary authority,South East,118.61,112.59,115.94,114.48,114.31,98.98,100.26,101.48,102.85,109.2
+E06000025,South Gloucestershire,Unitary authority,South West,204.82,198.03,201.19,200.61,209.13,187.16,187.77,191.54,195.13,208.56
+E06000045,Southampton,Unitary authority,South East,210.59,201.08,212.47,207.04,206.46,171.02,176.8,182.08,183.83,196.06
+E06000033,Southend-on-Sea,Unitary authority,East,150.78,143.94,147.81,147.91,147.59,123.98,127.12,129.47,133.55,142
+E06000004,Stockton-on-Tees,Unitary authority,North East,165.02,156.67,168.68,166.17,168.22,137.75,139.85,143.24,145.85,155.49
+E06000021,Stoke-on-Trent,Unitary authority,West Midlands,245.9,235.23,254.33,246.07,241.11,191.1,193.98,197.31,200.1,214.84
+E06000030,Swindon,Unitary authority,South West,155.7,150.12,160.54,161.17,164.11,141.59,143.6,145.37,150.37,160.91
+E06000020,Telford and the Wrekin,Unitary authority,West Midlands,146.27,139.28,149.02,147.07,146.72,122.97,125.93,127.78,130.19,139.46
+E06000034,Thurrock,Unitary authority,East,134.58,129.79,133.79,132.48,133.68,112.02,115.03,116.92,116.13,123.46
+E06000027,Torbay,Unitary authority,South West,135.31,129.13,133.97,133.84,132.3,110.06,113.34,116.73,119.14,127.72
+E06000007,Warrington,Unitary authority,North West,155.34,148.71,155.56,155.03,158.84,134.18,136.9,139.16,140.21,148.67
+E06000037,West Berkshire,Unitary authority,South East,123.82,119.45,121.66,123.36,128.1,114,115.47,116.86,120.3,127.03
+E06000054,Wiltshire,Unitary authority,South West,358.24,344.95,358.03,358.7,373.25,337.51,339.74,349.39,357.66,382.83
+E06000040,Windsor and Maidenhead,Unitary authority,South East,97.16,94.3,94.92,94.02,97.79,85.54,86.24,86.36,88.93,94.96
+E06000041,Wokingham,Unitary authority,South East,113.78,111.14,114.11,116.43,123.3,111.65,112.64,117.32,125.34,135.05
+E06000014,York,Unitary authority,Yorkshire and The Humber,138.09,132.04,139.24,138.69,142.67,122.1,123,125.17,127.73,135.62

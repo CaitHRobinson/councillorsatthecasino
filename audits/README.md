@@ -1,1 +1,1 @@
-
+# Local Autonomy Index

@@ -1,0 +1,66 @@
+```{r}
+setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets/TradingAccounts")
+getwd()
+```
+#Load the libraries
+
+```{r}
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(gridExtra)
+install.packages("gridExtra")
+```
+
+# Load trading accounts csv. data
+
+```{r}
+trading_data <- read.csv("TradingAccounts.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
+trading_data
+```
+
+```{r}
+p1 <- ggplot(trading_data, aes(x= Class, y = Trading_201617_popweight))+ 
+  geom_boxplot()+
+  theme_minimal()+
+  ylim(-400,100)+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  labs(title="2016-17", y="£ thousand net surplus (+) or deficit (-) 
+  per one thousand persons", x = " ")
+
+p2 <- ggplot(trading_data, aes(x= Class, y = Trading_201718_popweight))+ 
+  geom_boxplot()+
+  theme_minimal()+
+  ylim(-400,100)+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  labs(title="2017-18", y=" ", x = " ")
+
+p3 <- ggplot(trading_data, aes(x= Class, y = Trading_201819_popweight))+ 
+  geom_boxplot()+
+  theme_minimal()+
+  ylim(-400,100)+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  labs(title="2018-19", y= " ", x = " ")
+```
+
+```{r}
+tiff("Boxplots_Trading_SameAxis_400.tiff", width = 5000, height = 2000, res=400)
+grid.arrange(p1, p2, p3,  nrow = 1)
+dev.off()
+```
+
+# Box plot for average
+
+```{r}
+ggplot(trading_data, aes(x= Class, y = Average))+ 
+  geom_boxplot()+
+  theme_minimal()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  labs(title="Total external trading accounts (average 2016-17 to 2018-19)", y="£ thousand net surplus (+) or deficit (-)", x = " ")
+```
+
+```{r}
+tiff("Boxplots_Average_400.tiff", width = 3500, height = 3500, res=500)
+p4
+dev.off()
+```

@@ -1,15 +1,8 @@
-```{r}
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/LocalGovernment/Datasets/TradingAccounts")
-getwd()
-```
-#Load the libraries
+# Load the libraries
 
 ```{r}
 library(ggplot2)
-library(tidyr)
-library(dplyr)
 library(gridExtra)
-install.packages("gridExtra")
 ```
 
 # Load trading accounts csv. data
@@ -18,6 +11,8 @@ install.packages("gridExtra")
 trading_data <- read.csv("TradingAccounts.csv", check.names=FALSE, fileEncoding = 'UTF-8-BOM')
 trading_data
 ```
+
+Plot grid of boxplots for each financial year
 
 ```{r}
 p1 <- ggplot(trading_data, aes(x= Class, y = Trading_201617_popweight))+ 
@@ -45,11 +40,11 @@ p3 <- ggplot(trading_data, aes(x= Class, y = Trading_201819_popweight))+
 
 ```{r}
 tiff("Boxplots_Trading_SameAxis_400.tiff", width = 5000, height = 2000, res=400)
-grid.arrange(p1, p2, p3,  nrow = 1)
+grid.arrange(p1, p2, p3,  nrow = 1) # Use grid-arrange to plot three charts in one
 dev.off()
 ```
 
-# Box plot for average
+# Box plot for average values
 
 ```{r}
 ggplot(trading_data, aes(x= Class, y = Average))+ 
@@ -57,10 +52,4 @@ ggplot(trading_data, aes(x= Class, y = Average))+
   theme_minimal()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
   labs(title="Total external trading accounts (average 2016-17 to 2018-19)", y="£ thousand net surplus (+) or deficit (-)", x = " ")
-```
-
-```{r}
-tiff("Boxplots_Average_400.tiff", width = 3500, height = 3500, res=500)
-p4
-dev.off()
 ```

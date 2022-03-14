@@ -127,7 +127,7 @@ colnames(LAI_data)
 # Rename years
 LAI_data_select <- LAI_data %>%
   select("country_name", "D_LAI_1990", "D_LAI_2000", "D_LAI_2010", "D_LAI_2014") %>%
-  filter(country_name %in% c("Germany", "France", "United Kingdom", "Italy", "Spain", "Belgium", "Netherlands", "Portugal", "Ireland")) %>% # Select specific countries
+  filter(country_name %in% c("France", "Germany","Ireland", "Italy", "Spain", "United Kingdom")) %>% # Select specific countries
   rename("1990" = D_LAI_1990, "2000" = D_LAI_2000, "2010" = D_LAI_2010, "2014" = D_LAI_2014) # Rename years
 ```
 

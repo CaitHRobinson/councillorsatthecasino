@@ -11,7 +11,7 @@ beeswarm(DepositsBanks_PopWeighted ~ Class, # Variable partitioned by Local Gove
                   data= investment, 
                   pch=20, # Change to a point symbol
                   method="compactswarm", # Make the swarm compact
-                  col = c("#808080", "#000000", "#D3D3D3","#808080", "#000000"), #m Black and white colour palette for printing
+                  col = c("#808080", "#000000", "#D3D3D3","#808080", "#000000"), # Black and white colour palette for printing
                   corral = c("wrap")) # Wrap so that points cluster
 
 beeswarm(DepositsBanks_PopWeighted ~ Class, 

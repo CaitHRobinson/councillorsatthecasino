@@ -1,4 +1,4 @@
-# External borrowing per capita
+# Gross external borrowing
 
 Replicate the swarm charts using relevant [data](https://github.com/CaitHRobinson/councillorsatthecasino/blob/main/externalborrowing/ExternalBorrowing_ByType.csv) and [code](https://github.com/CaitHRobinson/councillorsatthecasino/blob/main/externalborrowing/externalborrowing.R).
 
